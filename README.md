@@ -1,6 +1,6 @@
 # Consistency
 
-They say the most importatn thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
+They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
 ### Feb 5, 2023
