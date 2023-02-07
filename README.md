@@ -5,6 +5,7 @@ They say the most important thing in any endeavor is *consistency*. This is wher
 ------------------------------------------
 ### Feb 7, 2023
 + I finished ["How to Drive a Nuclear Reactor"](https://www.amazon.com/Drive-Nuclear-Reactor-Springer-Praxis/dp/3030338754). It describes the systems of a **P**ressurized **W**ater **R**eactor (the most common type) and how a control-room operator starts, manages, and stops it. It's a bit more technical than your standard popsci book, but not as challenging as a textbook. Worth a read if you're interested in nuclear power.
++ [Helion Energy](https://research.contrary.com/reports/helion-energy) is trying to build a 50MW fusion reactor that fits in a shipping container and costs $10M by 2030. Seems wildly optimistic but I look forward to being surprised.
 
 ------------------------------------------
 ### Feb 6, 2023
