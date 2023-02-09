@@ -3,6 +3,10 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 9, 2023
+Instead of [running Doom on a soldering iron](https://www.youtube.com/watch?v=qCC941xKuBs), it seems the new trend is to implement ChatGPT in as few lines as possible. [Here's one](https://jaykmody.com/blog/gpt-from-scratch/) that does it in 60 lines of NumPy.
+
+------------------------------------------
 ### Feb 8, 2023
 + Last week, America was incensed that [a Chinese spy ballon traversed our airspace](https://www.reuters.com/world/us-briefed-40-nations-china-spy-balloon-incident-diplomats-official-say-2023-02-08/). This week, we learned that [we blew up Russia's Nordstream gas supply lines](https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream?r=5mz1)...
 
