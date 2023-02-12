@@ -3,6 +3,11 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 11, 2023
++ You can get a lot of prepackaged Docker containers for FOSS EDA tools [here](https://hdl.github.io/containers/). [This page](https://hdl.github.io/containers/ToolsAndImages.html) lists the available tools. Most of these are HDL/FPGA/VLSI design tools so don't expect to get containers for things like KiCad and FreeCAD.
++ A while ago, I built a [Docker container for KiCad](https://github.com/devbisme/docker_kicad5). It's for version 5, but it should be easy to modify it for versions 6 and 7 (when it becomes available).
+
+------------------------------------------
 ### Feb 10, 2023
 + [Here's](https://www.hackster.io/news/one-man-s-trash-is-another-man-s-compute-cluster-b6735c5d8385) the latest effort to repurpose old smartphones into a compute cluster. Unfortunately, the phones are loaded with the [Ubuntu Touch](https://ubuntu-touch.io/) linux variant and that isn't supported on any of the old phones I have lieing around.
 + A couple of pro-nuke articles about [uninformed fears of nuclear waste](https://zionlights.substack.com/p/everything-i-believed-about-waste-was-wrong) and [the nuclear renaissance](https://quillette.com/2023/02/09/the-dawn-of-nuclear-energy-abundance/).
