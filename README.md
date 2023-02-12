@@ -3,6 +3,10 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 12, 2023
++ Japan is going [full bore on nuclear](https://japannews.yomiuri.co.jp/business/companies/20230210-90175/). Looks like the government will be paying for their share of the build-out by charging "carbon fees" to companies using fossil fuels. 
+
+------------------------------------------
 ### Feb 11, 2023
 + You can get a lot of prepackaged Docker containers for FOSS EDA tools [here](https://hdl.github.io/containers/). [This page](https://hdl.github.io/containers/ToolsAndImages.html) lists the available tools. Most of these are HDL/FPGA/VLSI design tools so don't expect to get containers for things like KiCad and FreeCAD.
 + A while ago, I built a [Docker container for KiCad](https://github.com/devbisme/docker_kicad5). It's for version 5, but it should be easy to modify it for versions 6 and 7 (when it becomes available).
