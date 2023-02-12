@@ -4,7 +4,8 @@ They say the most important thing in any endeavor is *consistency*. This is wher
 
 ------------------------------------------
 ### Feb 12, 2023
-+ Japan is going [full bore on nuclear](https://japannews.yomiuri.co.jp/business/companies/20230210-90175/). Looks like the government will be paying for their share of the build-out by charging "carbon fees" to companies using fossil fuels. 
++ Japan is going [full bore on nuclear](https://japannews.yomiuri.co.jp/business/companies/20230210-90175/). Looks like the government will be paying for their share of the build-out by charging "carbon fees" to companies using fossil fuels.
++ Looks like Intel Foundry service [isn't going to be directly supporting RISC-V](https://www.electropages.com/blog/2023/01/intel-terminates-risc-v-development-project-what-happened).
 
 ------------------------------------------
 ### Feb 11, 2023
