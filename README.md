@@ -3,6 +3,10 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 14, 2023
++ Maybe you're like me: sometimes you use Pandas, but you don't really *know* Pandas. If so, [this *extensive* visual guide to Pandas](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43) may be for you. (Note: This is hosted on Medium so you may be able to view it or you may not. Who knows...)
+
+------------------------------------------
 ### Feb 13, 2023
 + Looks like Z Library [isn't going down without a fight](https://torrentfreak.com/z-library-returns-on-the-clearnet-in-full-hydra-mode-230213/).
 + I'm a big fan of using programming languages for doing CAD work. [GhostSCAD]() puts a Go wrapper around OpenSCAD to achieve that. CadQuery (Python) and JSCad (Javascript) are other alternatives mentioned in the comments.
