@@ -3,6 +3,12 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 13, 2023
++ Looks like Z Library [isn't going down without a fight](https://torrentfreak.com/z-library-returns-on-the-clearnet-in-full-hydra-mode-230213/).
++ I'm a big fan of using programming languages for doing CAD work. [GhostSCAD]() puts a Go wrapper around OpenSCAD to achieve that. CadQuery (Python) and JSCad (Javascript) are other alternatives mentioned in the comments.
++ [Maya Posch](https://hackaday.com/author/mayaposch/) writes a lot of good articles at Hackaday like this one on [methane pyrolysis](https://hackaday.com/2023/02/13/methane-pyrolysis-producing-green-hydrogen-without-carbon-emissions/). Also check out the [mining and refining](https://hackaday.com/tag/mining-and-refining/) section by [Dan Maloney](https://hackaday.com/author/dpsm64/) for facts about the stuff that makes up our industrial society.
+
+------------------------------------------
 ### Feb 12, 2023
 + Japan is going [full bore on nuclear](https://japannews.yomiuri.co.jp/business/companies/20230210-90175/). Looks like the government will be paying for their share of the build-out by charging "carbon fees" to companies using fossil fuels.
 + Looks like Intel Foundry service [isn't going to be directly supporting RISC-V](https://www.electropages.com/blog/2023/01/intel-terminates-risc-v-development-project-what-happened).
