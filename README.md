@@ -4,7 +4,7 @@ They say the most important thing in any endeavor is *consistency*. This is wher
 
 ------------------------------------------
 ### Feb 14, 2023
-+ Maybe you're like me: sometimes you use Pandas, but you don't really *know* Pandas. If so, [this *extensive* visual guide to Pandas](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43) may be for you. (Note: This is hosted on Medium so you may be able to view it or you may not. Who knows...)
++ Maybe you're like me: sometimes you use Pandas, but you don't really *know* Pandas. If so, [this *extensive* visual guide to Pandas](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43) may be for you. (Note: This is hosted on Medium so you may be able to view it or you may not. Who knows...) And if actually learning how it works is too much, there's a Python package called [sketch](https://pypi.org/project/sketch/) that uses AI to assist you in using Pandas.
 
 ------------------------------------------
 ### Feb 13, 2023
