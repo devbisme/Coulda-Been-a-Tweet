@@ -3,6 +3,10 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 15, 2023
++ I've always been interested in forecasting, even though I suck at it. [Superforecasting](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock-ebook/dp/B00RKO6MS8) is a great book on how to make better predictions of the future, and [this article](https://www.arcdigital.media/p/superforecasters-in-the-cosmic-bazaar?r=lle6p) is a good, broad-brush exposition of the principles.
+
+------------------------------------------
 ### Feb 14, 2023
 + Maybe you're like me: sometimes you use Pandas, but you don't really *know* Pandas. If so, [this *extensive* visual guide to Pandas](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43) may be for you. (Note: This is hosted on Medium so you may be able to view it or you may not. Who knows...) And if actually learning how it works is too much, there's a Python package called [sketch](https://pypi.org/project/sketch/) that uses AI to assist you in using Pandas.
 
