@@ -6,6 +6,7 @@ They say the most important thing in any endeavor is *consistency*. This is wher
 ### Feb 15, 2023
 + I've always been interested in forecasting, even though I suck at it. [Superforecasting](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock-ebook/dp/B00RKO6MS8) is a great book on how to make better predictions of the future, and [this article](https://www.arcdigital.media/p/superforecasters-in-the-cosmic-bazaar?r=lle6p) is a good, broad-brush exposition of the principles.
 + I frequently use the website [remove.bg](https://www.remove.bg/) to get rid of backgrounds in images I want to use as clip-art. I just ran across the [rembg](https://pypi.org/project/rembg/#description) Python package that does the same thing locally, and the code can be viewed [here](https://github.com/danielgatis/rembg).
++ [New private-sector, DARPA-like organizations](https://www.spec.tech/library/introducing-speculative-technologies) are springing up to advance foundational technologies. 
 
 ------------------------------------------
 ### Feb 14, 2023
