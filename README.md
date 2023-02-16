@@ -3,6 +3,10 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 16, 2023
++ I use [PySpice](https://pypi.org/project/PySpice/) as a Python interface to ngspice to provide circuit simulation capabilities in [SKiDL](https://github.com/devbisme/skidl). Now there's a fork called [OpenSPICE](https://github.com/thejackal360/OpenSPICE) that adds a native Python simulator. There's not a lot of documentation I could find outside of [this article](https://hackaday.com/2023/02/14/openspice-a-portable-python-circuit-simulator/). In the comments, there's also a link to [PyLTSpice](https://pypi.org/project/PyLTSpice/) which lets you drive LTSpice through a Python interface.
+
+------------------------------------------
 ### Feb 15, 2023
 + I've always been interested in forecasting, even though I suck at it. [Superforecasting](https://www.amazon.com/Superforecasting-Science-Prediction-Philip-Tetlock-ebook/dp/B00RKO6MS8) is a great book on how to make better predictions of the future, and [this article](https://www.arcdigital.media/p/superforecasters-in-the-cosmic-bazaar?r=lle6p) is a good, broad-brush exposition of the principles.
 + I frequently use the website [remove.bg](https://www.remove.bg/) to get rid of backgrounds in images I want to use as clip-art. I just ran across the [rembg](https://pypi.org/project/rembg/#description) Python package that does the same thing locally, and the code can be viewed [here](https://github.com/danielgatis/rembg).
