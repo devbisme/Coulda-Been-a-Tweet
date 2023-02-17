@@ -3,6 +3,11 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 17, 2023
++ Meta is handing out a lot of [negative reviews to its workers](https://www.wsj.com/articles/og-mark-returns-at-meta-as-facebook-parent-gives-thousands-of-staff-subpar-reviews-56e648b4). It also wants to [solve the noise problem](https://www.wsj.com/articles/inside-metas-push-to-solve-the-noisy-office-ba43042) in its offices. I guess having fewer employees would be one way to do that...
++ This [article](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) covers how ChatGPT works. Along the way, it talks about models, neural nets, training, embeddings, semantics, etc. I haven't read it in detail, but I plan to. Better than reading WSJ articles about Meta...
+
+------------------------------------------
 ### Feb 16, 2023
 + I use [PySpice](https://pypi.org/project/PySpice/) as a Python interface to ngspice to provide circuit simulation capabilities in [SKiDL](https://github.com/devbisme/skidl). Now there's a fork called [OpenSPICE](https://github.com/thejackal360/OpenSPICE) that adds a native Python simulator. There's not a lot of documentation I could find outside of [this article](https://hackaday.com/2023/02/14/openspice-a-portable-python-circuit-simulator/). In the comments, there's also a link to [PyLTSpice](https://pypi.org/project/PyLTSpice/) which lets you drive LTSpice through a Python interface.
 
