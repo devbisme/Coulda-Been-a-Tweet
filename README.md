@@ -5,6 +5,7 @@ They say the most important thing in any endeavor is *consistency*. This is wher
 ------------------------------------------
 ### Feb 18, 2023
 + I was reading this [article](https://aruva.medium.com/using-chatgpt-to-build-system-diagrams-part-i-69efc7603926) about using ChatGPT to create system modeling diagrams by having it output markdown containing Mermaid (which is amazing by itself). But this led me to the FOSS tool [PlantUML](https://plantuml.com/) that lets you generate many types of diagrams from a text description: UML, mindmaps, mathematics, etc. Using ChatGPT to drive text-based tools like these with natural language inputs gives them capabilities that aren't readily available in GUI-based tools.
++ Interesting [article](https://foreignpolicy.com/2023/02/16/ukraine-russia-war-drone-warfare-china/) about how both Ukraine and Russia are somewhat dependent upon drones from a private company ([DJI](https://www.dji.com/)) in China. DJI has applied geofencing to restrict the use of their drones in wars in the Middle East, but not in Ukraine (so far).
 
 ------------------------------------------
 ### Feb 17, 2023
