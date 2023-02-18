@@ -3,6 +3,10 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 18, 2023
++ I was reading this [article](https://aruva.medium.com/using-chatgpt-to-build-system-diagrams-part-i-69efc7603926) about using ChatGPT to create system modeling diagrams by having it output markdown containing Mermaid (which is amazing by itself). But this led me to the FOSS tool [PlantUML](https://plantuml.com/) that lets you generate many types of diagrams from a text description: UML, mindmaps, mathematics, etc. Using ChatGPT to drive text-based tools like these with natural language inputs gives them capabilities that aren't readily available in GUI-based tools.
+
+------------------------------------------
 ### Feb 17, 2023
 + Meta is handing out a lot of [negative reviews to its workers](https://www.wsj.com/articles/og-mark-returns-at-meta-as-facebook-parent-gives-thousands-of-staff-subpar-reviews-56e648b4). It also wants to [solve the noise problem](https://www.wsj.com/articles/inside-metas-push-to-solve-the-noisy-office-ba43042) in its offices. I guess having fewer employees would be one way to do that...
 + This [article](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) covers how ChatGPT works. Along the way, it talks about models, neural nets, training, embeddings, semantics, etc. I haven't read it in detail, but I plan to. Better than reading WSJ articles about Meta...
