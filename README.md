@@ -3,6 +3,12 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 19, 2023
++ Somewhere on my travels through ChatGPT-land, I ran across [Colossal-AI](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt), a FOSS toolkit for replicating ChatGPT using fewer compute resources (i.e., GPUs) and with faster training. I'm not expert enough and haven't tried it to see if that's true or just BS. But it's open source so you can look for yourself.
++ If you're into making animated visualizations in the browser, [SwissGL](https://github.com/google/swissgl) is a minimalistic wrapper on top of the WebGL2 JS API. This looks like a quick way to get GPU-assisted visualizations onto the web.
++ [What will soda cans look like in forty years?](https://www.reddit.com/r/Futurology/comments/116f83f/given_how_soda_cans_have_changed_over_the_years/)
+
+------------------------------------------
 ### Feb 18, 2023
 + I was reading this [article](https://aruva.medium.com/using-chatgpt-to-build-system-diagrams-part-i-69efc7603926) about using ChatGPT to create system modeling diagrams by having it output markdown containing Mermaid (which is amazing by itself). But this led me to the FOSS tool [PlantUML](https://plantuml.com/) that lets you generate many types of diagrams from a text description: UML, mindmaps, mathematics, etc. Using ChatGPT to drive text-based tools like these with natural language inputs gives them capabilities that aren't readily available in GUI-based tools.
 + Interesting [article](https://foreignpolicy.com/2023/02/16/ukraine-russia-war-drone-warfare-china/) about how both Ukraine and Russia are somewhat dependent upon drones from a private company ([DJI](https://www.dji.com/)) in China. DJI has applied geofencing to restrict the use of their drones in wars in the Middle East, but not in Ukraine (so far).
