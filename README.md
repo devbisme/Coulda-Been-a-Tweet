@@ -3,6 +3,11 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 20, 2023
++ Raspberry Pi is selling a [small hardware debug module](https://www.raspberrypi.com/news/raspberry-pi-debug-probe-a-plug-and-play-debug-kit-for-12/) to make it easier to access the SWD port of a Pico (or any other ARM processor).
++ Just to maintain the ARM theme, here's [part 1](https://thechipletter.substack.com/p/the-arm-story-part-1-from-acorns-6e2?publication_id=1063960&post_id=100242940&isFreemail=true) and [part 2](https://thechipletter.substack.com/p/the-arm-story-part-2-archimedes-to-4fd) of a history about ARM.
+
+------------------------------------------
 ### Feb 19, 2023
 + Somewhere on my travels through ChatGPT-land, I ran across [Colossal-AI](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt), a FOSS toolkit for replicating ChatGPT using fewer compute resources (i.e., GPUs) and with faster training. I'm not expert enough and haven't tried it to see if that's true or just BS. But it's open source so you can look for yourself.
 + If you're into making animated visualizations in the browser, [SwissGL](https://github.com/google/swissgl) is a minimalistic wrapper on top of the WebGL2 JS API. This looks like a quick way to get GPU-assisted visualizations onto the web.
