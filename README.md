@@ -6,6 +6,7 @@ They say the most important thing in any endeavor is *consistency*. This is wher
 ### Feb 20, 2023
 + Raspberry Pi is selling a [small hardware debug module](https://www.raspberrypi.com/news/raspberry-pi-debug-probe-a-plug-and-play-debug-kit-for-12/) to make it easier to access the SWD port of a Pico (or any other ARM processor).
 + Just to maintain the ARM theme, here's [part 1](https://thechipletter.substack.com/p/the-arm-story-part-1-from-acorns-6e2?publication_id=1063960&post_id=100242940&isFreemail=true) and [part 2](https://thechipletter.substack.com/p/the-arm-story-part-2-archimedes-to-4fd) of a history about ARM.
++ [Here's](https://github.com/Ying1123/FlexGen) another FOSS solution for running large language modules with just a single GPU.
 
 ------------------------------------------
 ### Feb 19, 2023
