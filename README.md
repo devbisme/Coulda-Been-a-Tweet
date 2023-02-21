@@ -7,6 +7,7 @@ They say the most important thing in any endeavor is *consistency*. This is wher
 + This [Dockerfile](https://github.com/code2k13/pipico_build_setup) gives you a self-contained build environment for Raspberry Pico programs.
 + Want to program the 10&cent; [CH32V003 microcontroller](http://www.wch-ic.com/products/CH32V003.html) but hate the idea of using their proprietary tools? This [repo](https://github.com/cnlohr/ch32v003fun) supports an open source alternative using GCC.
 + [Extensive guide](https://github.com/dair-ai/Prompt-Engineering-Guide) to prompt engineering for various generative AI tools.
++ Here's a [large categorized list of tools](https://hdl.github.io/awesome/) for describing electronic systems.
 
 ------------------------------------------
 ### Feb 20, 2023
