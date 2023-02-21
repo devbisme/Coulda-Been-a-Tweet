@@ -3,6 +3,11 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 21, 2023
++ This [Dockerfile](https://github.com/code2k13/pipico_build_setup) gives you a self-contained build environment for Raspberry Pico programs.
++ Want to program the 10&cent; [CH32V003 microcontroller](http://www.wch-ic.com/products/CH32V003.html) but hate the idea of using their proprietary tools? This [repo](https://github.com/cnlohr/ch32v003fun) supports an open source alternative using GCC.
+
+------------------------------------------
 ### Feb 20, 2023
 + Raspberry Pi is selling a [small hardware debug module](https://www.raspberrypi.com/news/raspberry-pi-debug-probe-a-plug-and-play-debug-kit-for-12/) to make it easier to access the SWD port of a Pico (or any other ARM processor).
 + Just to maintain the ARM theme, here's [part 1](https://thechipletter.substack.com/p/the-arm-story-part-1-from-acorns-6e2?publication_id=1063960&post_id=100242940&isFreemail=true) and [part 2](https://thechipletter.substack.com/p/the-arm-story-part-2-archimedes-to-4fd) of a history about ARM.
