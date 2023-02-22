@@ -5,6 +5,7 @@ They say the most important thing in any endeavor is *consistency*. This is wher
 ------------------------------------------
 ### Feb 22, 2023
 + Looks like we have another web-based PCB design suite: [Flux](https://docs.flux.ai/). Your design is stored in their central database and I'm not sure if you can export your design files. So what happens if the company ceases to exist or if the server is just down?
++ [Lots of interest in demographics](https://stenoresearch.com/watch-series/introducing-the-problem-index-which-countries-have-the-worst-demographics/) since the developed/developing world has a problem keeping their birthrates above replacement level. 
 
 ------------------------------------------
 ### Feb 21, 2023
