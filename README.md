@@ -3,6 +3,10 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 22, 2023
++ Looks like we have another web-based PCB design suite: [Flux](https://docs.flux.ai/). Your design is stored in their central database and I'm not sure if you can export your design files. So what happens if the company ceases to exist or if the server is just down?
+
+------------------------------------------
 ### Feb 21, 2023
 + This [Dockerfile](https://github.com/code2k13/pipico_build_setup) gives you a self-contained build environment for Raspberry Pico programs.
 + Want to program the 10&cent; [CH32V003 microcontroller](http://www.wch-ic.com/products/CH32V003.html) but hate the idea of using their proprietary tools? This [repo](https://github.com/cnlohr/ch32v003fun) supports an open source alternative using GCC.
