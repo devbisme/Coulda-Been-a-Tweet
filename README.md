@@ -3,6 +3,10 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 23, 2023
++ I pointed to [PlantUML](https://plantuml.com/) a few days ago and now here's a [Mermaid cheatsheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/) for doing similar text-based graphics within a Markdown file. All these things seem to rely on the remarkably long-lived [graphviz](https://graphviz.org/) tool.
+
+------------------------------------------
 ### Feb 22, 2023
 + Looks like we have another web-based PCB design suite: [Flux](https://docs.flux.ai/). Your design is stored in their central database and I'm not sure if you can export your design files. So what happens if the company ceases to exist or if the server is just down?
 + [Lots of interest in demographics](https://stenoresearch.com/watch-series/introducing-the-problem-index-which-countries-have-the-worst-demographics/) since the developed/developing world has a problem keeping their birthrates above replacement level. 
