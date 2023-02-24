@@ -5,6 +5,7 @@ They say the most important thing in any endeavor is *consistency*. This is wher
 ------------------------------------------
 ### Feb 24, 2023
 + I ordered one of these [CH32V003 RISC-V microcontroller dev kits](https://www.aliexpress.us/item/3256804709476544.html?spm=a2g0o.productlist.main.1.725670cdLyYDkV&algo_pvid=695670c4-a9f6-4d50-833c-17991705eead&algo_exp_id=695670c4-a9f6-4d50-833c-17991705eead-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000030983160842%22%7D&pdp_npi=3%40dis%21USD%2112.5%2111.87%21%21%21%21%21%40210212c016772437895204285d0724%2112000030983160842%21sea%21US%21162974069&curPageLogUid=IVAZeaas6Tv2). Shipping is more than the cost of the kit!
++ [AlphaCode](https://www.deepmind.com/blog/competitive-programming-with-alphacode) is an AI from DeepMind specifically aimed at the task of generating good solutions for competitive coding contests.
 
 ------------------------------------------
 ### Feb 23, 2023
