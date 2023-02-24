@@ -3,6 +3,10 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 24, 2023
++ I ordered one of these [CH32V003 RISC-V microcontroller dev kits](https://www.aliexpress.us/item/3256804709476544.html?spm=a2g0o.productlist.main.1.725670cdLyYDkV&algo_pvid=695670c4-a9f6-4d50-833c-17991705eead&algo_exp_id=695670c4-a9f6-4d50-833c-17991705eead-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000030983160842%22%7D&pdp_npi=3%40dis%21USD%2112.5%2111.87%21%21%21%21%21%40210212c016772437895204285d0724%2112000030983160842%21sea%21US%21162974069&curPageLogUid=IVAZeaas6Tv2). Shipping is more than the cost of the kit!
+
+------------------------------------------
 ### Feb 23, 2023
 + I pointed to [PlantUML](https://plantuml.com/) a few days ago and now here's a [Mermaid cheatsheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/) for doing similar text-based graphics within a Markdown file. All these things seem to rely on the remarkably long-lived [graphviz](https://graphviz.org/) tool.
 
@@ -16,7 +20,7 @@ They say the most important thing in any endeavor is *consistency*. This is wher
 + This [Dockerfile](https://github.com/code2k13/pipico_build_setup) gives you a self-contained build environment for Raspberry Pico programs.
 + Want to program the 10&cent; [CH32V003 microcontroller](http://www.wch-ic.com/products/CH32V003.html) but hate the idea of using their proprietary tools? This [repo](https://github.com/cnlohr/ch32v003fun) supports an open source alternative using GCC.
 + [Extensive guide](https://github.com/dair-ai/Prompt-Engineering-Guide) to prompt engineering for various generative AI tools.
-+ Here's a [large categorized list of tools](https://hdl.github.io/awesome/) for describing electronic systems.
++ Here's a [large categorized list of EDA tools](https://hdl.github.io/awesome/) for describing electronic systems.
 
 ------------------------------------------
 ### Feb 20, 2023
