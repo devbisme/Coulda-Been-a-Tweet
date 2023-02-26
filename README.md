@@ -3,6 +3,10 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 26, 2023
++ [In-Q-Tel](https://www.iqt.org/) is basically the venture capital arm of the US intelligence community (think CIA). Here is one of [their reports](https://assets.iqt.org/pdfs/The_Biorevolution_Feb_2023.pdf/web/viewer.html) describing how the ability to both read and *write* DNA will affect national security and economic competitiveness.
+
+------------------------------------------
 ### Feb 25, 2023
 + I updated my [KiCad on Docker repo](https://github.com/devbisme/docker_kicad) so it supports versions 5, 6 and 7. Now I can run any of those versions with a simple command like `kicad5` and they don't interfere with each other.
 
