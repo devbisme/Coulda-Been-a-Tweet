@@ -3,6 +3,10 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 27, 2023
++ This [blog post](https://newsletter.theaiedge.io/p/deep-neural-networks-all-the-building?publication_id=1238074&post_id=103792603&isFreemail=true) contains a good timeline with links to important papers in deep learning.
+
+------------------------------------------
 ### Feb 26, 2023
 + [In-Q-Tel](https://www.iqt.org/) is basically the venture capital arm of the US intelligence community (think CIA). Here is one of [their reports](https://assets.iqt.org/pdfs/The_Biorevolution_Feb_2023.pdf/web/viewer.html) describing how the ability to both read and *write* DNA will affect national security and economic competitiveness.
 
