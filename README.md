@@ -3,6 +3,13 @@
 They say the most important thing in any endeavor is *consistency*. This is where I'll try to write something *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological, with the newest at the top.
 
 ------------------------------------------
+### Feb 28, 2023
++ Looks like you're not going to get that eco-friendly lettuce from a [vertical farm](https://www.fastcompany.com/90824702/vertical-farming-failing-profitable-appharvest-aerofarms-bowery). Oh, and that ethically-pure lab-grown meat? [Not getting that, either.](https://thecounter.org/lab-grown-cultivated-meat-cost-at-scale/)
++ I know you're looking forward to the government slapping some [more regulations on working-from-home](https://sloanreview.mit.edu/article/work-from-home-regulations-are-coming-companies-arent-ready/). But don't worry! You'll only have to endure them for [four days a week.](https://www.washingtonpost.com/wellness/2023/02/21/four-day-work-week-results-uk/)
++ Meta open-sourced their version of GPT-3 called [LLaMa](https://github.com/facebookresearch/llama) which uses 10x fewer parameters while getting better performance. Now there's an [open-source version of ChatGPT](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama) built with it.
++ [Here](https://news.ycombinator.com/item?id=34964000) is a page with suggested links for keeping up on current AI developments, along with an [older post](https://news.ycombinator.com/item?id=33369800) about how to get started in learning AI.
+
+------------------------------------------
 ### Feb 27, 2023
 + This [blog post](https://newsletter.theaiedge.io/p/deep-neural-networks-all-the-building?publication_id=1238074&post_id=103792603&isFreemail=true) contains a good timeline with links to important papers in deep learning.
 
