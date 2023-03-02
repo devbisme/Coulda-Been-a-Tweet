@@ -3,6 +3,17 @@
 They say the most important thing in any endeavor is *consistency* so I'll try to write something here *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 1, 2023
++ Iran must be making one *hell* of a ["nukelear" reactor](https://www.bbc.com/news/world-middle-east-64810145)!
++ Politicians are slowly [waking up](https://www.euronews.com/green/2022/06/22/germany-refuses-to-agree-to-eu-ban-on-new-fossil-fuel-cars-from-2035) to the fact that they can't just legislate and expect the atoms to fall in line...
++ [Good luck, kids.](https://www.nationalgeographic.com/magazine/article/half-of-todays-5-year-olds-will-live-to-be-100)
++ If I ever got around to making a game, I'd look seriously at [Godot](https://github.com/godotengine/godot). It's getting to that Blender level of critical mass.
++ The AI LLM of the day is ... [KOSMOS-1](https://arxiv.org/pdf/2302.14045.pdf)! This one works with different types of data (text & images) and can do things like explain what's going on in a picture or understand the text in an image without using OCR.
++ OpenAI has released [APIs to ChatGPT and Whisper](https://openai.com/blog/introducing-chatgpt-and-whisper-apis). In addition, there is an upcoming [ChatML](https://github.com/openai/openai-python/blob/main/chatml.md) format that lets you interact with GPT models using JSON-formatted data. 
++ Operating at a lower level than things like GPT, [JAX](https://colinraffel.com/blog/you-don-t-know-jax.html) augments Pyton's `numpy` to make it easier to perform machine learning operations.
++ Need a QR code for a URL? [Here's](https://python.plainenglish.io/generating-qr-codes-using-python-in-few-simple-steps-752f4d8dac2d) a set of Python function calls that does it.
+
+------------------------------------------
 ### Feb 28, 2023
 + Looks like you're not going to get that eco-friendly lettuce from a [vertical farm](https://www.fastcompany.com/90824702/vertical-farming-failing-profitable-appharvest-aerofarms-bowery). Oh, and that ethically-pure lab-grown meat? [Not getting that, either.](https://thecounter.org/lab-grown-cultivated-meat-cost-at-scale/)
 + I know you're looking forward to the government slapping some [more regulations on working-from-home](https://sloanreview.mit.edu/article/work-from-home-regulations-are-coming-companies-arent-ready/). But don't worry! You'll only have to endure them for [four days a week.](https://www.washingtonpost.com/wellness/2023/02/21/four-day-work-week-results-uk/)
