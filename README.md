@@ -3,6 +3,10 @@
 They say the most important thing in any endeavor is *consistency* so I'll try to write something here *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 2, 2023
++ I'm reading a book called ["How Big Things Get Done"](https://www.amazon.com/How-Big-Things-Get-Done/dp/0593239512/ref=sr_1_1?keywords=how+big+things+get+done&qid=1677799915&sr=8-1). At one point, it discusses the construction of the Empire State building which was done in about 12 months from start to finish. This [blog post](https://constructionphysics.substack.com/p/construction-productivity-structural) contrasts that project with the building of the World Trade Center and shows that the workers on the Empire State building were 2x - 4x more productive. And [this blog post](https://noahpinion.substack.com/p/the-build-nothing-country?publication_id=35345&post_id=105353895&isFreemail=true) bemoans the fact that America can't seem to build *anything*.
+
+------------------------------------------
 ### Mar 1, 2023
 + Iran must be making one *hell* of a ["nukelear" reactor](https://www.bbc.com/news/world-middle-east-64810145)!
 + Politicians are slowly [waking up](https://www.euronews.com/green/2022/06/22/germany-refuses-to-agree-to-eu-ban-on-new-fossil-fuel-cars-from-2035) to the fact that they can't just legislate and expect the atoms to fall in line...
