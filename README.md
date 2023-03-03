@@ -3,6 +3,12 @@
 They say the most important thing in any endeavor is *consistency* so I'll try to write something here *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 3, 2023
++ Looks like someone was able to [reconstruct the images being viewed](https://github.com/yu-takagi/StableDiffusionReconstruction) by feeding fMRI scan data from the language and visual areas of a brain into a Stable Diffusion model.
++ Somebody submitted a [PR to Meta's LLaMa Github repo](https://github.com/facebookresearch/llama/pull/73/files) with a link to a torrent of the model weights. (Normally, Meta wants you to submit a form to get access to those.) In case it vanishes, [here it is](magnet:?xt=urn:btih:ZXXDAUWYLRUXXBHUYEMS6Q5CE5WA3LVA&dn=LLaMA): magnet:?xt=urn:btih:ZXXDAUWYLRUXXBHUYEMS6Q5CE5WA3LVA&dn=LLaMA
++ Maybe a few years to late to this party, but if you need to do a little performative moralizing, [here you go](https://www.thedrum.com/news/2019/11/19/gender-equality-ad-calls-time-playboy-model-lena-image-led-jpeg-invention). 
+
+------------------------------------------
 ### Mar 2, 2023
 + I'm reading a book called ["How Big Things Get Done"](https://www.amazon.com/How-Big-Things-Get-Done/dp/0593239512/ref=sr_1_1?keywords=how+big+things+get+done&qid=1677799915&sr=8-1). At one point, it discusses the construction of the Empire State building which was done in about 12 months from start to finish. This [blog post](https://constructionphysics.substack.com/p/construction-productivity-structural) contrasts that project with the building of the World Trade Center and shows that the workers on the Empire State building were 2x - 4x more productive. And [this blog post](https://noahpinion.substack.com/p/the-build-nothing-country?publication_id=35345&post_id=105353895&isFreemail=true) bemoans the fact that America can't seem to build *anything*.
 
