@@ -3,6 +3,10 @@
 They say the most important thing in any endeavor is *consistency* so I'll try to write something here *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 4, 2023
++ [Another example](https://gizmodo.com/greenlink-west-transmission-line-nevada-ice-age-fossils-1850186221) of why we just can't build anything.
+
+------------------------------------------
 ### Mar 3, 2023
 + Looks like someone was able to [reconstruct the images being viewed](https://github.com/yu-takagi/StableDiffusionReconstruction) by feeding fMRI scan data from the language and visual areas of a brain into a Stable Diffusion model.
 + Somebody submitted a [PR to Meta's LLaMa Github repo](https://github.com/facebookresearch/llama/pull/73/files) with a link to a torrent of the model weights. (Normally, Meta wants you to submit a form to get access to those.) In case it vanishes, [here it is](magnet:?xt=urn:btih:ZXXDAUWYLRUXXBHUYEMS6Q5CE5WA3LVA&dn=LLaMA): magnet:?xt=urn:btih:ZXXDAUWYLRUXXBHUYEMS6Q5CE5WA3LVA&dn=LLaMA
