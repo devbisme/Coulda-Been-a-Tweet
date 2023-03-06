@@ -3,6 +3,12 @@
 They say the most important thing in any endeavor is *consistency* so I'll try to write something here *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 5, 2023
++ I haven't read this entire [article](https://whyevolutionistrue.com/2023/03/05/science-magazine-touts-the-existence-of-strong-and-ubiquitous-implicit-bias-as-well-as-the-need-to-measure-it-and-develoop-ways-to-eliminate-it/) because I've kinda stopped caring about the whole racist/anti-racist back-and-forth, but I'm *really* tired of publications like *Science*, *Nature* and *Scientific American* becoming so overtly political in their coverage (even to the point of endorsing political candidates).
++ There is now a [tufte.css](https://edwardtufte.github.io/tufte-css/) for formatting your HTML articles in the clear, minimalistic style of Edward Tufte. Although not the main focus, [Tufte-LaTeX](https://tufte-latex.github.io/tufte-latex/) is also mentioned.
++ A hospital in Canada has [surgically grafted healthy nerves onto the damaged ones of a dozen quadrapelgics](https://nouvelles.umontreal.ca/en/article/2023/03/02/a-new-surgery-gives-quadriplegic-patients-the-use-of-their-hands-and-arms/) to restore the use of their arms and hands. (This is a press release from the hospital, not a peer-reviewed article.)
+
+------------------------------------------
 ### Mar 4, 2023
 + [Another example](https://gizmodo.com/greenlink-west-transmission-line-nevada-ice-age-fossils-1850186221) of why we just can't build anything.
 
