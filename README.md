@@ -3,6 +3,11 @@
 They say the most important thing in any endeavor is *consistency* so I'll try to write something here *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 6, 2023
++ This [Quora answer](https://qr.ae/prcjEt) demonstrates how doing something different from everyone else can give you a marked leg-up in a competition (in this case, shooting down airplanes). It's similar to the success a football coach had when he decided to [flip the 70%-30% ratio of run-versus-pass plays to 30%-70%](https://www.amazon.com/Perfect-Pass-American-Reinvention-Football/dp/1501116193).
++ Of course, doing something different doesn't always lead to success. [This paper](https://www.researchgate.net/publication/228178742_Pioneer_Advantage_Marketing_Logic_or_Marketing_Legend) shows that first entrants  ("pioneers") only capture 10% of a new market and seldom maintain their leadership over a later entrant that gains 28% of the market. 
+
+------------------------------------------
 ### Mar 5, 2023
 + I haven't read this entire [article](https://whyevolutionistrue.com/2023/03/05/science-magazine-touts-the-existence-of-strong-and-ubiquitous-implicit-bias-as-well-as-the-need-to-measure-it-and-develoop-ways-to-eliminate-it/) because I've kinda stopped caring about the whole racist/anti-racist back-and-forth, but I'm *really* tired of publications like *Science*, *Nature* and *Scientific American* becoming so overtly political in their coverage (even to the point of endorsing political candidates).
 + There is now a [tufte.css](https://edwardtufte.github.io/tufte-css/) for formatting your HTML articles in the clear, minimalistic style of Edward Tufte. Although not the main focus, [Tufte-LaTeX](https://tufte-latex.github.io/tufte-latex/) is also mentioned.
