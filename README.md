@@ -3,6 +3,13 @@
 They say the most important thing in any endeavor is *consistency* so I'll try to write something here *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 7, 2023
++ Here's a list of [interesting publishers in the tech world](https://arbesman.net/publishing).
++ Multimodal models that operate on several types of input data (text, image, etc.) are now heating up. [Here's one from NVIDIA labs](https://shikun.io/projects/prismer) that's completely [open-sourced](https://github.com/NVlabs/prismer). Makes sense since NVIDIA's money comes from hardware and they would benefit by having their model widely used.
++ And here's a [curated list of software engineering blogs](https://github.com/kilimchoi/engineering-blogs) that you'll never get around to reading...
++ Brush your teeth so you don't [die of a heart attack](https://www.nature.com/articles/s41415-023-5507-4). Also, mouthwash kills bacteria that [help to lower blood pressure](https://www.sciencedaily.com/releases/2019/09/190903111242.htm). So what the hell...
+
+------------------------------------------
 ### Mar 6, 2023
 + This [Quora answer](https://qr.ae/prcjEt) demonstrates how doing something different from everyone else can give you a marked leg-up in a competition (in this case, shooting down airplanes). It's similar to the success a football coach had when he decided to [flip the 70%-30% ratio of run-versus-pass plays to 30%-70%](https://www.amazon.com/Perfect-Pass-American-Reinvention-Football/dp/1501116193).
 + Of course, doing something different doesn't always lead to success. [This paper](https://www.researchgate.net/publication/228178742_Pioneer_Advantage_Marketing_Logic_or_Marketing_Legend) shows that first entrants  ("pioneers") only capture 10% of a new market and seldom maintain their leadership over a later entrant that gains 28% of the market. 
