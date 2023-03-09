@@ -3,6 +3,11 @@
 They say the most important thing in any endeavor is *consistency* so I'll try to write something here *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 8, 2023
++ This project runs [Stable Diffusion in the browser](https://mlc.ai/web-stable-diffusion/) using WebGPU. Good luck [limiting the spread of AI](https://thehill.com/opinion/technology/3849751-how-dangerous-is-ai-regulate-it-before-its-too-late/)...
++ Today's reminder that you don't need AI to do dangerous stuff; regular old people are good at it, too: [Zombie virus revived!](https://edition.cnn.com/2023/03/08/world/permafrost-virus-risk-climate-scn/index.html)
+
+------------------------------------------
 ### Mar 7, 2023
 + Here's a list of [interesting publishers in the tech world](https://arbesman.net/publishing).
 + Multimodal models that operate on several types of input data (text, image, etc.) are now heating up. [Here's one from NVIDIA labs](https://shikun.io/projects/prismer) that's completely [open-sourced](https://github.com/NVlabs/prismer). Makes sense since NVIDIA's money comes from hardware and they would benefit by having their model widely used.
