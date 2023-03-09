@@ -8,6 +8,7 @@ They say the most important thing in any endeavor is *consistency* so I'll try t
 + Another example from ["How Big Things Get Done"](https://www.amazon.com/How-Big-Things-Get-Done/dp/0593239512/ref=sr_1_1?keywords=how+big+things+get+done&qid=1677799915&sr=8-1) is in the news: the [current projected cost of California's high-speed rail](https://calmatters.org/transportation/2023/03/california-high-speed-rail/) from SF to LA is now up to $100B. Oh well, I guess that's still better than throwing the money at the Ukraine war...
 + All this time we were told the "free energy" videos on Youtube were scams, but now it looks like we've found an enzyme that [generates electricity just from the traces of hydrogen in the air.](https://www.msn.com/en-us/news/technology/scientists-discover-how-to-make-electricity-out-of-thin-air/ar-AA18mQr2?ocid=msedgntp&cvid=88bb0529f474423b9d99bcaf6d7b43b9&ei=464)
 + [Skywater open-sourced their PDK](https://github.com/google/skywater-pdk) for 130nm IC designs a few years ago. Now, [IHP has open-sourced their PDK](https://github.com/IHP-GmbH/IHP-Open-PDK) for 130nm BiCMOS intended for analog, mixed signal, and RF ICs.
++ This article on [computer vision in manufacturing](https://voxel51.com/blog/how-computer-vision-is-changing-manufacturing-in-2023/) has a lot of good links to more in-depth articles on its use in specific areas of manufacturing.
 
 ------------------------------------------
 ### Mar 8, 2023
