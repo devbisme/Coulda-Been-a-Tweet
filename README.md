@@ -7,6 +7,7 @@ They say the most important thing in any endeavor is *consistency* so I'll try t
 + The Flynn Effect is the 3-5 point increase of a population's IQ each decade since the 1930s, but looks like we've [managed to reverse that](https://www.sciencedirect.com/science/article/pii/S0160289623000156#f0005).
 + Another example from ["How Big Things Get Done"](https://www.amazon.com/How-Big-Things-Get-Done/dp/0593239512/ref=sr_1_1?keywords=how+big+things+get+done&qid=1677799915&sr=8-1) is in the news: the [current projected cost of California's high-speed rail](https://calmatters.org/transportation/2023/03/california-high-speed-rail/) from SF to LA is now up to $100B. Oh well, I guess that's still better than throwing the money at the Ukraine war...
 + All this time we were told the "free energy" videos on Youtube were scams, but now it looks like we've found an enzyme that [generates electricity just from the traces of hydrogen in the air.](https://www.msn.com/en-us/news/technology/scientists-discover-how-to-make-electricity-out-of-thin-air/ar-AA18mQr2?ocid=msedgntp&cvid=88bb0529f474423b9d99bcaf6d7b43b9&ei=464)
++ [Skywater open-sourced their PDK](https://github.com/google/skywater-pdk) for 130nm IC designs a few years ago. Now, [IHP has open-sourced their PDK](https://github.com/IHP-GmbH/IHP-Open-PDK) for 130nm BiCMOS intended for analog, mixed signal, and RF ICs.
 
 ------------------------------------------
 ### Mar 8, 2023
