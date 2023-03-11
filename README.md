@@ -3,6 +3,15 @@
 They say the most important thing in any endeavor is *consistency* so I'll try to write something here *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 11, 2023
++ Damn! Missed posting yesterday.
++ If the [default of Silicon Valley Bank](https://www.nakedcapitalism.com/2023/03/silicon-valley-bank-fails-with-deposits-of-many-venture-backed-companies-frozen-how-bad-will-the-fallout-be.html) ushers in the collapse of Western civilization, then [lowtechmagazine.com](https://www.lowtechmagazine.com/) will become a must-read.
++ With South Korea already having the [lowest fertility rate of all nations](https://www.aljazeera.com/news/2023/2/22/s-korea-breaks-record-for-worlds-lowest-fertility-rate-again), how is [increasing the work week to 69 hours](https://www.washingtonpost.com/world/2023/03/11/south-korea-work-week/) going to help?
++ Octave, the open-source alternative to MATLAB, has come out with [version 8.1](https://octave.org/news/release/2023/03/07/octave-8.1.0-released.html).
++ [What can you do with modern debuggers?](https://werat.dev/blog/what-a-good-debugger-can-do/)
++ [No thanks!](https://gizmodo.com/kissing-device-metaverse-long-distance-relationship-1850162433)
+
+------------------------------------------
 ### Mar 9, 2023
 + The Flynn Effect is the 3-5 point increase of a population's IQ each decade since the 1930s, but looks like we've [managed to reverse that](https://www.sciencedirect.com/science/article/pii/S0160289623000156#f0005).
 + Another example from ["How Big Things Get Done"](https://www.amazon.com/How-Big-Things-Get-Done/dp/0593239512/ref=sr_1_1?keywords=how+big+things+get+done&qid=1677799915&sr=8-1) is in the news: the [current projected cost of California's high-speed rail](https://calmatters.org/transportation/2023/03/california-high-speed-rail/) from SF to LA is now up to $100B. Oh well, I guess that's still better than throwing the money at the Ukraine war...
