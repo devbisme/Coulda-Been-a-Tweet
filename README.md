@@ -3,6 +3,13 @@
 They say the most important thing in any endeavor is *consistency* so I'll try to write something here *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 12, 2023
++ This article shows [how to use the ChatGPT API](https://minimaxir.com/2023/03/new-chatgpt-overlord/) and includes links to working Jupyter Colab notebooks.
++ [De-escalation of LLM models continues](https://simonwillison.net/2023/Mar/11/llama/): now they can run on a laptop CPU.
++ A complete [connectome for an insect larva "brain"](https://www.smithsonianmag.com/smart-news/see-the-first-complete-map-of-an-insects-brain-180981778/) with 3,000 neurons and 550,000 synapses.
++ [Video refresher on the USB protocol.](https://www.youtube.com/watch?v=HbQ6q3skZgw)
+
+------------------------------------------
 ### Mar 11, 2023
 + Damn! Missed posting yesterday.
 + If the [default of Silicon Valley Bank](https://www.nakedcapitalism.com/2023/03/silicon-valley-bank-fails-with-deposits-of-many-venture-backed-companies-frozen-how-bad-will-the-fallout-be.html) ushers in the collapse of Western civilization, then [lowtechmagazine.com](https://www.lowtechmagazine.com/) will become a must-read.
