@@ -3,6 +3,12 @@
 They say the most important thing in any endeavor is *consistency* so I'll try to write something here *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 13, 2023
++ Here's a list of [single-webpage AI projects](https://hpssjellis.github.io/my-examples-of-huggingfacejs/public/index.html) using the huggingface.js library.
++ I've always been interested in the [Demoscene](https://www.wikiwand.com/en/Demoscene) and how their members are able to get such striking visuals and animations from so little code. Here's an example of a [jellyfish animation](https://www.geeks3d.com/hacklab/20210902/jellyfish-tweet-shader/) that fits in a single tweet.
++ Just imagine if the resources the US government put into this [insignificant case](https://www.justice.gov/opa/pr/social-media-influencer-charged-election-interference-stemming-voter-disinformation-campaign) were redirected into domestic infrastructure...
+
+------------------------------------------
 ### Mar 12, 2023
 + This article shows [how to use the ChatGPT API](https://minimaxir.com/2023/03/new-chatgpt-overlord/) and includes links to working Jupyter Colab notebooks.
 + [De-escalation of LLM models continues](https://simonwillison.net/2023/Mar/11/llama/): now they can run on a laptop CPU.
