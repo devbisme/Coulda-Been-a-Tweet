@@ -7,6 +7,7 @@ They say the most important thing in any endeavor is *consistency* so I'll try t
 + Well, [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) got released today. So did [Claude](https://www.anthropic.com/index/introducing-claude).
 + [This paper](https://direct.mit.edu/neco/article/35/3/287/111335/Understanding-and-Applying-Deep-Learning) fosters "an intuitive understanding of convolutional network deep learning models and how to use them with the goal of engaging a wider creative community."
 + Thirteen amino acids and a couple of nickel ions may have [started life on Earth](https://www.rutgers.edu/news/rutgers-scientists-identify-substance-may-have-sparked-life-earth): Simple enough to arise spontaneously and reactive enough to catalyze hydrogen to power primitive metabolic processes.
++ Ha! This guy just came out with a book about the [hardest thing in programming!](https://www.namingthings.co/)
 
 ------------------------------------------
 ### Mar 13, 2023
