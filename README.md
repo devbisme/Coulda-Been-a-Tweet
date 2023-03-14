@@ -3,6 +3,12 @@
 They say the most important thing in any endeavor is *consistency* so I'll try to write something here *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 14, 2023
++ Well, [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) got released today. So did [Claude](https://www.anthropic.com/index/introducing-claude).
++ [This paper](https://direct.mit.edu/neco/article/35/3/287/111335/Understanding-and-Applying-Deep-Learning) fosters "an intuitive understanding of convolutional network deep learning models and how to use them with the goal of engaging a wider creative community."
++ Thirteen amino acids and a couple of nickel ions may have [started life on Earth](https://www.rutgers.edu/news/rutgers-scientists-identify-substance-may-have-sparked-life-earth): Simple enough to arise spontaneously and reactive enough to catalyze hydrogen to power primitive metabolic processes.
+
+------------------------------------------
 ### Mar 13, 2023
 + Here's a list of [single-webpage AI projects](https://hpssjellis.github.io/my-examples-of-huggingfacejs/public/index.html) using the huggingface.js library.
 + I've always been interested in the [Demoscene](https://www.wikiwand.com/en/Demoscene) and how their members are able to get such striking visuals and animations from so little code. Here's an example of a [jellyfish animation](https://www.geeks3d.com/hacklab/20210902/jellyfish-tweet-shader/) that fits in a single tweet.
