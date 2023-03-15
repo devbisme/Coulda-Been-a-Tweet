@@ -3,6 +3,10 @@
 They say the most important thing in any endeavor is *consistency* so I'll try to write something here *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 15, 2023
++ South Korea's [Samsung is building a $230B chip fabrication complex](https://www.cnn.com/2023/03/15/tech/korea-chips-investment-hnk-intl/index.html), but over the span of 20 years. Gotta compare that to Taiwan's [TSMC spending $44B on capital expenditures](https://www.eetimes.com/tsmc-expects-44-billion-in-capex-despite-slowdown-concerns/) in a single year. 
+
+------------------------------------------
 ### Mar 14, 2023
 + Well, [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) got released today. So did [Claude](https://www.anthropic.com/index/introducing-claude).
 + [This paper](https://direct.mit.edu/neco/article/35/3/287/111335/Understanding-and-Applying-Deep-Learning) fosters "an intuitive understanding of convolutional network deep learning models and how to use them with the goal of engaging a wider creative community."
