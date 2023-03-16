@@ -3,6 +3,11 @@
 They say the most important thing in any endeavor is *consistency* so I'll try to write something here *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 16, 2023
++ Whenever buying a car is discussed, my wife always gravitates to expensive cars with loads of safety features. My response: "You want safety? Don't use a cell phone while the car's moving. Boom! [You're safer than 77% of the drivers out there](https://www.latimes.com/business/story/2023-03-14/deaths-broken-limbs-distracted-driving) and it costs nothing. Now, how about that [Fiero](https://www.motor1.com/news/132346/worst-sports-cars-pontiac-fiero/)?"
++ Around 1980, society started shifting from a collective to an individualistic viewpoint according to an [analysis of the language used in millions of books](https://www.eurekalert.org/news-releases/940009). It will be interesting to see if this starts to shift back given the emphasis on acting for the collective good by some segments of the population during the COVID crisis. 
+
+------------------------------------------
 ### Mar 15, 2023
 + South Korea's [Samsung is building a $230B chip fabrication complex](https://www.cnn.com/2023/03/15/tech/korea-chips-investment-hnk-intl/index.html), but over the span of 20 years. Gotta compare that to Taiwan's [TSMC spending $44B on capital expenditures](https://www.eetimes.com/tsmc-expects-44-billion-in-capex-despite-slowdown-concerns/) in a single year. 
 
