@@ -1,6 +1,7 @@
-# Consistency
+# I Could Have Tweeted This...
 
-They say the most important thing in any endeavor is *consistency* so I'll try to write something here *every day*. It won't be much, probably just a link or two to something I've read. All the entries will be chronological with the newest at the top.
+Here are things I found interesting and could have put on Twitter, but they're here instead.
+All the entries are chronological with the newest at the top.
 
 ------------------------------------------
 ### Mar 16, 2023
