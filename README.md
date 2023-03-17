@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 17, 2023
++ [Here](https://science.xyz/services/foundry) is a foundry service where you can build your own MEMS devices.
++ Experiment with AI [Transformers in your browser](https://xenova.github.io/transformers.js/).
++ [Codon](https://news.mit.edu/2023/codon-python-based-compiler-achieve-orders-magnitude-speedups-0314) is a compiler for speeding-up Python programs. As usual, it "can’t support certain dynamic features" of Python. It doesn't say which ones or how much this limits its general usefulness.
+
+------------------------------------------
 ### Mar 16, 2023
 + Whenever buying a car is discussed, my wife always gravitates to expensive cars with loads of safety features. My response: "You want safety? Don't use a cell phone while the car's moving. Boom! [You're safer than 77% of the drivers out there](https://www.latimes.com/business/story/2023-03-14/deaths-broken-limbs-distracted-driving) and it costs nothing. Now, how about that [Fiero](https://www.motor1.com/news/132346/worst-sports-cars-pontiac-fiero/)?"
 + Around 1980, society started shifting from a collective to an individualistic viewpoint according to an [analysis of the language used in millions of books](https://www.eurekalert.org/news-releases/940009). It will be interesting to see if this starts to shift back given the emphasis on acting for the collective good by some segments of the population during the COVID crisis.
