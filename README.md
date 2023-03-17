@@ -8,6 +8,7 @@ All the entries are chronological with the newest at the top.
 + [Here](https://science.xyz/services/foundry) is a foundry service where you can build your own MEMS devices.
 + Experiment with AI [Transformers in your browser](https://xenova.github.io/transformers.js/).
 + [Codon](https://news.mit.edu/2023/codon-python-based-compiler-achieve-orders-magnitude-speedups-0314) is a compiler for speeding-up Python programs. As usual, it "can’t support certain dynamic features" of Python. It doesn't say which ones or how much this limits its general usefulness.
++ Here's a list from Nov/2022 of [capabilities emerging from large language models](https://www.jasonwei.net/blog/emergence). Who knows how many more have been added by now...
 
 ------------------------------------------
 ### Mar 16, 2023
