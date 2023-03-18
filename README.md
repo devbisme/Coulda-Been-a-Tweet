@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 18, 2023
++ Looks like [OpenAI doesn't think it's a good idea to be so open](https://twitter.com/jjvincent/status/1636065237500588033). Well, you shouldn't have put "open" in your fucking name! Looks like Microsoft found a good place to burn all the goodwill they earned back over the past decade...
++ Vaclav Smil wrote a lot of [good articles for IEEE Spectrum](https://spectrum.ieee.org/u/vaclav-smil), but looks like that may be over. Nothing new since Nov/2022. Maybe he wasn't sufficiently on-board the green energy train.
++ People are all right with authoritarianism if it's [packaged attractively](https://areomagazine.com/2023/03/15/cute-authoritarianism/).
+
+------------------------------------------
 ### Mar 17, 2023
 + [Here](https://science.xyz/services/foundry) is a foundry service where you can build your own MEMS devices.
 + Experiment with AI [Transformers in your browser](https://xenova.github.io/transformers.js/).
