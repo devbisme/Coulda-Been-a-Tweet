@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 19, 2023
++ Kids are [opting out of college](https://fortune.com/2023/03/09/american-skipping-college-huge-numbers-pandemic-turned-them-off-education/). The education-industrial complex is, of course, in panic. Good (and I say this as a former university faculty member).
++ I remember using it in the early 90's, but today it's a hard sell if you tell somebody [they can master EMACS in just one year.](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org)
++ I love a good book-sharing site and sticking it to the Man. Here's how [Anna's Archive works](https://annas-blog.org/how-to-run-a-shadow-library.html).
++ Remember how the South Korean government wanted a 69-hour work week? Yeah, well [their people had something to say about that.](https://www.cnn.com/2023/03/18/asia/south-korea-longer-work-week-debate-intl-hnk/index.html) (I also found out S. Korea *already had a 68-hour workweek* prior to 2018 when it was reduced to 52 hours.)
+
+------------------------------------------
 ### Mar 18, 2023
 + Looks like [OpenAI doesn't think it's a good idea to be so open](https://twitter.com/jjvincent/status/1636065237500588033). Well, you shouldn't have put "open" in your fucking name! Looks like Microsoft found a good place to burn all the goodwill they earned back over the past decade...
 + Vaclav Smil wrote a lot of [good articles for IEEE Spectrum](https://spectrum.ieee.org/u/vaclav-smil), but looks like that may be over. Nothing new since Nov/2022. Maybe he wasn't sufficiently on-board the green energy train.
