@@ -9,6 +9,7 @@ All the entries are chronological with the newest at the top.
 + I remember using it in the early 90's, but today it's a hard sell if you tell somebody [they can master EMACS in just one year.](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org)
 + I love a good book-sharing site and sticking it to the Man. Here's how [Anna's Archive works](https://annas-blog.org/how-to-run-a-shadow-library.html).
 + Remember how the South Korean government wanted a 69-hour work week? Yeah, well [their people had something to say about that.](https://www.cnn.com/2023/03/18/asia/south-korea-longer-work-week-debate-intl-hnk/index.html) (I also found out S. Korea *already had a 68-hour workweek* prior to 2018 when it was reduced to 52 hours.)
++ The [third installment](https://thechipletter.substack.com/p/the-arm-story-part-3-creating-a-global-1b0?publication_id=1063960&post_id=108762776&isFreemail=true) of the ARM story just dropped.
 
 ------------------------------------------
 ### Mar 18, 2023
