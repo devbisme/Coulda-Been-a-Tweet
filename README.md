@@ -4,6 +4,11 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 20, 2023
++ It would be interesting to run these [14,166 function descriptions](https://www.commandlinefu.com/commands/browse) through GPT-4 and see how well it replicates the associated one-line linux command.
++ Tired of reading about "GPT this-or-that"? Here's a [random list of interesting projects.](https://github.com/sindresorhus/awesome#miscellaneous)
+
+------------------------------------------
 ### Mar 19, 2023
 + Kids are [opting out of college](https://fortune.com/2023/03/09/american-skipping-college-huge-numbers-pandemic-turned-them-off-education/). The education-industrial complex is, of course, in panic. Good (and I say this as a former university faculty member).
 + I remember using it in the early 90's, but today it's a hard sell if you tell somebody [they can master EMACS in just one year.](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-en.org)
