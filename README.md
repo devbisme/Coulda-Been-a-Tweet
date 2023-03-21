@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 21, 2023
++ Turns out *Nature*'s political endorsements didn't have any effect other than [decreasing trust in scientists](https://www.nature.com/articles/d41586-023-00799-3?error=cookies_not_supported&code=c0ffc538-11db-4f86-a528-b6988549b177#Echobox=1679348459). Good job, guys!
++ Here's somebody who [got his hardware into the wild](https://www.kickstarter.com/projects/1703258614/psdr-pocket-hf-sdr-transceiver-with-vna-and-gps/posts/1930259) but the community to write software for it hasn't coalesced. That mirrors my experience when I was running XESS: you need to do a lot of hand-holding to get things rolling! Also, only about 50% of the dev boards you buy ever make it out of their antistatic bags.
++ More about [prompt engineering.](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
++ I tried giving ChatGPT a few descriptions from [commandlinefu.com](https://www.commandlinefu.com/commands/browse) and it did a pretty good job generating the command sequences. But then I realized that the whole site was probably part of the training set...
+
+------------------------------------------
 ### Mar 20, 2023
 + It would be interesting to run these [14,166 function descriptions](https://www.commandlinefu.com/commands/browse) through GPT-4 and see how well it replicates the associated one-line linux command.
 + Tired of reading about "GPT this-or-that"? Here's a [random list of interesting projects.](https://github.com/sindresorhus/awesome#miscellaneous)
