@@ -9,6 +9,7 @@ All the entries are chronological with the newest at the top.
 + Here's somebody who [got his hardware into the wild](https://www.kickstarter.com/projects/1703258614/psdr-pocket-hf-sdr-transceiver-with-vna-and-gps/posts/1930259) but the community to write software for it hasn't coalesced. That mirrors my experience when I was running XESS: you need to do a lot of hand-holding to get things rolling! Also, only about 50% of the dev boards you buy ever make it out of their antistatic bags.
 + More about [prompt engineering.](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 + I tried giving ChatGPT a few descriptions from [commandlinefu.com](https://www.commandlinefu.com/commands/browse) and it did a pretty good job generating the command sequences. But then I realized that the whole site was probably part of the training set...
++ [A modern-day Rosetta Stone](https://longnow.org/ideas/very-long-term-backup/) containing the Book of Genesis in thousands of different languages etched into a nickel disk.
 
 ------------------------------------------
 ### Mar 20, 2023
