@@ -4,6 +4,14 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 22, 2023
++ Here's a [super simple guide](https://www.piratewires.com/p/run-alpaca-mac-locally-guide) to getting the Alpaca large language model running locally on your own machine rather than logging into something like ChatGPT.
++ [Typst](https://github.com/typst/typst) is "a new markup-based typsetting system that is designed to be as powerful as LaTeX while being much easier to learn and use." I like that Typst documents can include scripts whose outputs can be included in the text. Not sure how likely this is to unseat LaTeX in publishing academic papers. Some easy integration into Markdown docs like with MathJax might help adoption.
++ I didn't know they never had one before this, but [PyPi has started a blog.](https://blog.pypi.org/posts/2023-03-21-welcome-to-the-pypi-blog/)
++ [Building a budget compute cluster.](https://news.ycombinator.com/item?id=35260049)
++ The West is popular in the West, [but not so much everywhere else](https://unherd.com/2023/03/how-russia-and-china-overtook-the-west/).
+
+------------------------------------------
 ### Mar 21, 2023
 + Turns out *Nature*'s political endorsements didn't have any effect other than [decreasing trust in scientists](https://www.nature.com/articles/d41586-023-00799-3?error=cookies_not_supported&code=c0ffc538-11db-4f86-a528-b6988549b177#Echobox=1679348459). Good job, guys!
 + Here's somebody who [got his hardware into the wild](https://www.kickstarter.com/projects/1703258614/psdr-pocket-hf-sdr-transceiver-with-vna-and-gps/posts/1930259) but the community to write software for it hasn't coalesced. That mirrors my experience when I was running XESS: you need to do a lot of hand-holding to get things rolling! Also, only about 50% of the dev boards you buy ever make it out of their antistatic bags.
