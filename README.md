@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 24, 2023
++ Not to get too hung-up on their demographic woes and super-low fertility rate, but here's an [article](https://www.thecut.com/2023/03/4b-movement-feminism-south-korea.html) on South Korea's 4B feminist movement that advocates for near-total avoidance of men. From some of the examples they give, can't really blame 'em...
++ [Building semantic search engines](https://sigmoidprime.com/post/searchthearxiv/) has now become easy with OpenAI's API. (Side note: Arxiv has *250,000 papers about machine learning!?* Who's doing all that?)
++ I wrote a [blog post](https://devbisme.github.io/skidl/skidl-meets-chatgpt-2023-03-23.html) about that Twitter discussion I had about concerning circuit design by having ChatGPT/GPT4 output SKiDL code.
+
+------------------------------------------
 ### Mar 23, 2023
 + I had an exchange on Twitter yesterday about [using ChatGPT/GPT4 with SKiDL for designing electronics.](https://twitter.com/alexandrosM/status/1638727208809402369)
 
