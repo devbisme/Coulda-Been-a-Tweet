@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 23, 2023
++ I had an exchange on Twitter yesterday about [using ChatGPT/GPT4 with SKiDL for designing electronics.](https://twitter.com/alexandrosM/status/1638727208809402369)
+
+------------------------------------------
 ### Mar 22, 2023
 + Here's a [super simple guide](https://www.piratewires.com/p/run-alpaca-mac-locally-guide) to getting the Alpaca large language model running locally on your own machine rather than logging into something like ChatGPT.
 + [Typst](https://github.com/typst/typst) is "a new markup-based typsetting system that is designed to be as powerful as LaTeX while being much easier to learn and use." I like that Typst documents can include scripts whose outputs can be included in the text. Not sure how likely this is to unseat LaTeX in publishing academic papers. Some easy integration into Markdown docs like with MathJax might help adoption.
