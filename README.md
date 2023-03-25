@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 25, 2023
++ There's been some [talk](https://forum.kicad.info/t/ai-artificial-intelligence/40642) on the KiCad forum about using AI for electronics design, [including yours truly](https://forum.kicad.info/t/ai-artificial-intelligence/40642/19?u=devbisme).
++ [Is Netflix headed the way of the History Channel?](https://billwadge.com/2023/03/25/a-bad-trip-to-infinity/)
++ A single 13-sided polykite can [tile a plane without ever repeating](https://www.popularmechanics.com/science/math/a43402074/mathematicians-discover-new-13-sided-shape/). That sound you hear is a million 3D printers warming up... 
+
+------------------------------------------
 ### Mar 24, 2023
 + Not to get too hung-up on their demographic woes and super-low fertility rate, but here's an [article](https://www.thecut.com/2023/03/4b-movement-feminism-south-korea.html) on South Korea's 4B feminist movement that advocates for near-total avoidance of men. From some of the examples they give, can't really blame 'em...
 + [Building semantic search engines](https://sigmoidprime.com/post/searchthearxiv/) has now become easy with OpenAI's API. (Side note: Arxiv has *250,000 papers about machine learning!?* Who's doing all that?)
