@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 26, 2023
++ NVIDIA has developed a GPU library to give a [40x speed-up to the computation of photomask patterns](https://spectrum.ieee.org/inverse-lithography) for making advanced chips like GPUs ...
++ Skip the browser and run ChatGPT right from the command line using [Chatblade](https://github.com/npiv/chatblade) or [gptcli](https://github.com/evilpan/gptcli).
++ In keeping with my interest in atoms (versus bits), here's something on [mine tailings](https://bfrandall.substack.com/p/john-lee-pettimore-mine-tailings?publication_id=1140581&post_id=110599532&isFreemail=true), the inevitable result of getting stuff out of the ground. (Incidently, since the grade of copper ore has fallen from 50% copper to 0.5%, the best place to mine it is sometimes in the tailings of old mines. The stuff they threw away back then is better than what we can mine right now.)
+
+------------------------------------------
 ### Mar 25, 2023
 + There's been some [talk](https://forum.kicad.info/t/ai-artificial-intelligence/40642) on the KiCad forum about using AI for electronics design, [including yours truly](https://forum.kicad.info/t/ai-artificial-intelligence/40642/19?u=devbisme).
 + [Is Netflix headed the way of the History Channel?](https://billwadge.com/2023/03/25/a-bad-trip-to-infinity/)
