@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 28, 2023
++ The [problem with stuff like Clearview](https://www.reddit.com/r/Futurology/comments/124jkxo/clearview_ai_used_nearly_1m_times_by_us_police_it/) is the police use it a few times and catch some bad guys, and then they say "If we used it *more*, we could do even *more* good!" That's when things go bad and you end up with some cop scanning randos looking for his ex-GF going into Hunk-O-Mania.
++ People have enough subscriptions and [they don't want them for cars.](https://www.reddit.com/r/technology/comments/124nwjw/consumers_arent_buying_automaker_plans_to_make/) I just want to put a key into it and go off somewhere nobody can find me. I don't even want power windows. Hell, I don't even care if I have to stop it by dragging my foot on the pavement...
++ More AI-based chip placement, this time from [NVIDIA](https://www.nextplatform.com/2023/03/27/the-dream-of-placing-blocks-on-chip-designs-with-ai/).
++ [A 294-page book](https://www.amazon.com/dp/B0BW38DDBK?&linkCode=sl1&tag=bfilipek-20&linkId=76ab48a6d53fca53c8b00a8515d531c9&language=en_US&ref_=as_li_ss_tl) that covers ... C++ *initialization*. That's it, that's the whole book. C++ has become a language that revels in its own complexity.
+
+------------------------------------------
 ### Mar 27, 2023
 + Google solved [chip component placement using deep learning](https://www.nature.com/articles/s41586-021-03544-w) in 2021, or [maybe not...](https://www.theregister.com/2023/03/27/google_ai_chip_paper_nature/)
 + That new world order just [keeps getting reordered...](https://www.dw.com/en/a-new-world-order-brics-nations-provide-an-alternative-to-the-west/a-65124269)
