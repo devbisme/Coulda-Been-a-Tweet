@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 27, 2023
++ Google solved [chip component placement using deep learning](https://www.nature.com/articles/s41586-021-03544-w) in 2021, or [maybe not...](https://www.theregister.com/2023/03/27/google_ai_chip_paper_nature/)
++ That new world order just [keeps getting reordered...](https://www.dw.com/en/a-new-world-order-brics-nations-provide-an-alternative-to-the-west/a-65124269)
++ Remember how we were supposed to be scared stiff that the world would have 10B people on it this century? Yeah, well you can [just forget about that.](https://www.theguardian.com/world/2023/mar/27/world-population-bomb-may-never-go-off-as-feared-finds-study) But still be scared, of course. Our leaders can't let us off the hook that easy.
+
+------------------------------------------
 ### Mar 26, 2023
 + NVIDIA has developed a GPU library to give a [40x speed-up to the computation of photomask patterns](https://spectrum.ieee.org/inverse-lithography) for making advanced chips like GPUs ...
 + Skip the browser and run ChatGPT right from the command line using [Chatblade](https://github.com/npiv/chatblade) or [gptcli](https://github.com/evilpan/gptcli).
