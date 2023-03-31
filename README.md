@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 30, 2023
++ [Getting power from blood sugar](https://www.reddit.com/r/Futurology/comments/126icbf/researchers_develop_breakthrough_technology_to/): Maybe this can be used to power biological nanomachines, but the prototype looks like something I taped together from my kitchen junk drawer.
++ Cerebras - the company that makes gazillion-transistor AI wafers - has open sourced the [GPT-3 model architecture as well as model training data, weights and checkpoints.](https://www.nextplatform.com/2023/03/29/cerebras-smashes-ai-wide-open-countering-hypocrites/)
++ I remember using [APL](https://medium.com/@kaleberg7/apl-an-array-oriented-programming-language-b03fb39401c1) back in 1979. You needed a special terminal with Greek letters and other strange symbols on it, or else use a regular terminal and memorize which keys corresponded to those wacky symbols.
++ [Why do sharks attack humans?](https://www.discovermagazine.com/planet-earth/why-do-sharks-attack-humans) Because we taste good. Don't tell the aliens.
+
+------------------------------------------
 ### Mar 29, 2023
 + Well, now we've got an [open letter urging a six-month pause in training of LLMs](https://futureoflife.org/open-letter/pause-giant-ai-experiments/). Alarm bells should go off when you see one of the AI pitfalls they're trying to avoid is "political disruptions (especially to democracy)". The dis/mis/malinformation crowd has found a new horse to ride...
 + Good luck reigning in AI models (and this is just today): [OpenFlamingo](https://laion.ai/blog/open-flamingo/), [gpt4all](https://github.com/nomic-ai/gpt4all)
