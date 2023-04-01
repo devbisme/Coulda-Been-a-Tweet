@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 1, 2023
++ What good is an AI if it doesn't have neat stuff to use like [drone aircraft that autonomously refuel](https://www.thedrive.com/the-war-zone/airbuss-autonomous-drone-refueling-demo-echoes-need-thats-set-to-rapidly-expand) and [zippy little drone boats with Stinger missiles](https://www.thedrive.com/the-war-zone/stinger-missile-toting-drone-boats-could-protect-navy-logistics-ships)?
++ Here's a list of [web apps that don't require a login.](https://github.com/aviaryan/awesome-no-login-web-apps#programming-tools)
++ James Watt founded a British IP company almost two centuries before ARM. He ran his business not by building steam engines but from [licensing others to build them](https://antonhowes.substack.com/p/age-of-invention-the-first-intangibles?publication_id=18480&post_id=111654983&isFreemail=true) and then charging a royalty based on the cost of the coal that was saved over using a less efficient design.
+
+------------------------------------------
 ### Mar 31, 2023
 + The BRICS countries now have a [greater share of GDP than the West](https://www.silkroadbriefing.com/news/2023/03/27/the-brics-has-overtaken-the-g7-in-global-gdp/) and they are also [developing their own reserve currency.](https://www.kitco.com/news/2023-03-31/Ditch-the-dollar-movement-grows-as-Moscow-calls-for-the-creation-of-a-common-BRICS-currency.html) The only viable avenue open for the West is to out-innovate them, but that seems unlikely given the political leadership of the past few decades. So expect to see a lot more bombing...
 + Out-innovating the BRICS becomes even less likely when we [remove algebra from the 8th grade...](https://www.sfexaminer.com/forum/put-algebra-1-back-in-eighth-grade/article_01ca608e-be01-11ed-9d12-5fb4111a4db8.html)
