@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Mar 31, 2023
++ The BRICS countries now have a [greater share of GDP than the West](https://www.silkroadbriefing.com/news/2023/03/27/the-brics-has-overtaken-the-g7-in-global-gdp/) and they are also [developing their own reserve currency.](https://www.kitco.com/news/2023-03-31/Ditch-the-dollar-movement-grows-as-Moscow-calls-for-the-creation-of-a-common-BRICS-currency.html) The only viable avenue open for the West is to out-innovate them, but that seems unlikely given the political leadership of the past few decades. So expect to see a lot more bombing...
++ Out-innovating the BRICS becomes even less likely when we [remove algebra from the 8th grade...](https://www.sfexaminer.com/forum/put-algebra-1-back-in-eighth-grade/article_01ca608e-be01-11ed-9d12-5fb4111a4db8.html)
++ When Western goverments [prosecute small Twitter accounts for "election interference"](https://www.justice.gov/usao-edny/pr/social-media-influencer-douglass-mackey-convicted-election-interference-2016) and [outlaw ChatGPT](https://twitter.com/disclosetv/status/1641767348347584514) because it spews "misinformation", then you know the West has completely lost the plot...
++ OK, a least something a bit technical: [Using LLMs to control the coordinated operation of other AI models.](https://arxiv.org/abs/2303.17580)
+
+------------------------------------------
 ### Mar 30, 2023
 + [Getting power from blood sugar](https://www.reddit.com/r/Futurology/comments/126icbf/researchers_develop_breakthrough_technology_to/): Maybe this can be used to power biological nanomachines, but the prototype looks like something I taped together from my kitchen junk drawer.
 + Cerebras - the company that makes gazillion-transistor AI wafers - has open sourced the [GPT-3 model architecture as well as model training data, weights and checkpoints.](https://www.nextplatform.com/2023/03/29/cerebras-smashes-ai-wide-open-countering-hypocrites/)
