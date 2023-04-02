@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 2, 2023
++ GPT4 produces better results when prompted to "show its steps", but does even better when [asked to critique itself.](https://www.youtube.com/watch?v=5SgJKZLBrmg)
++ They keep telling the West to get stuffed: [OPEC+ does surprise oil cut.](https://www.reuters.com/business/energy/sarabia-other-opec-producers-announce-voluntary-oil-output-cuts-2023-04-02/)
++ [Twitter downranks pro-Ukraine tweets.](https://english.nv.ua/nation/analysis-of-code-for-twitter-algorithm-reveals-social-medium-down-ranks-tweets-about-ukraine-50314963.html) Meanwhile, [everybody else upranks them.](https://www.npr.org/2023/02/28/1159712623/how-russia-is-losing-and-winning-the-information-war-in-ukraine) I'm calling it a wash...
++ [Generative graphics with Rust](https://sarpex.com/2021/08/creative-programming-with-nannou/): Might be a good way to introduce myself to the language.
+
+------------------------------------------
 ### Apr 1, 2023
 + What good is an AI if it doesn't have neat stuff to use like [drone aircraft that autonomously refuel](https://www.thedrive.com/the-war-zone/airbuss-autonomous-drone-refueling-demo-echoes-need-thats-set-to-rapidly-expand) and [zippy little drone boats with Stinger missiles](https://www.thedrive.com/the-war-zone/stinger-missile-toting-drone-boats-could-protect-navy-logistics-ships)?
 + Here's a list of [web apps that don't require a login.](https://github.com/aviaryan/awesome-no-login-web-apps#programming-tools)
