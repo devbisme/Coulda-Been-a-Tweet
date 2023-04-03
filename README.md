@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 3, 2023
++ The West takes another beating: When faced with a choice between supporting American hegemony and having energy for its people, looks like [Japan has opted for that sweet, sweet Russian crude...](https://www.wsj.com/articles/japan-breaks-with-u-s-allies-buys-russian-oil-at-prices-above-cap-1395accb)
++ An interesting effort: use GPT4 to help develop [a pseudocode language that can be used to describe algorithms to GPT4](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b) so it can write the detailed version. I'm getting visions of that freaky Escher print where there's a hand drawing another hand that's drawing the first hand...
++ Somebody else had GPT4 generate an [abbreviated language to cut down on the number of tokens needed in the context buffer.](https://twitter.com/VictorTaelin/status/1642664054912155648) Won't be long before GPT4 is talking to itself in a language we can't understand. Then Peggy Noonan can say ["Told ya so!"](https://www.wsj.com/articles/a-six-month-ai-pause-no-longer-is-needed-civilization-danger-chat-gpt-chatbot-internet-big-tech-4b66da6e)
++ With the onslaught of AI developments lately, we lose sight of all the improvements still being made to our software infrastructure. [Here's to you, Pandas, with your new 2.0 release!](https://github.com/pandas-dev/pandas/releases/tag/v2.0.0)
+
+------------------------------------------
 ### Apr 2, 2023
 + GPT4 produces better results when prompted to "show its steps", but does even better when [asked to critique itself.](https://www.youtube.com/watch?v=5SgJKZLBrmg)
 + They keep telling the West to get stuffed: [OPEC+ does surprise oil cut.](https://www.reuters.com/business/energy/sarabia-other-opec-producers-announce-voluntary-oil-output-cuts-2023-04-02/)
