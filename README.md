@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 4, 2023
++ Oh, well, looks like [some people just can't be happy.](https://www.thenation.com/article/environment/ipcc-report-climate-optimism/)
++ [Improve children's diet by extending dinnertime by 10 minutes.](https://www.reddit.com/r/science/comments/12bzhvi/increasing_family_mealtime_duration_by/) This is new? My parents would make me sit at the table for *hours* until I finished my meat.
++ They identified the network leading [from a pleasurable physical touch to the brain's reward center.](https://www.drugdiscoverynews.com/how-the-brain-rewards-pleasurable-physical-touch-15648) Can't wait for the drug companies to monetize *that*.
++ [Call centers are embracing AI.](https://www.techtarget.com/searchcustomerexperience/feature/AI-takes-center-stage-in-the-future-of-contact-centers) I look forward to being informed about my expiring car warranty by GPT4...
++ Will we be creating any new [boilerplate templates](https://github.com/melvin0008/awesome-projects-boilerplates#readme) in the future, or is that just part of the gone-away world after AI?
+------------------------------------------
 ### Apr 3, 2023
 + The West takes another beating: When faced with a choice between supporting American hegemony and having energy for its people, looks like [Japan has opted for that sweet, sweet Russian crude...](https://www.wsj.com/articles/japan-breaks-with-u-s-allies-buys-russian-oil-at-prices-above-cap-1395accb)
 + An interesting effort: use GPT4 to help develop [a pseudocode language that can be used to describe algorithms to GPT4](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b) so it can write the detailed version. I'm getting visions of that freaky Escher print where there's a hand drawing another hand that's drawing the first hand...
