@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 5, 2023
++ Been putting off using brain-machine interfaces because of that nasty conductive gel or, you know, *brain surgery*? Well then, you're gonna love these [graphene-based sensors](https://spectrum.ieee.org/brain-machine-interface-dry-sensor)!
++ Meta [open-sourced a new image-segmentation AI model](https://twitter.com/DrJimFan/status/1643647849824161792) that even works on objects it's never seen before.
++ The predicted dates for Twitter's downfall have all passed and now [people are getting a bit sick of Mastodon.](https://andy-bell.co.uk/i-think-im-not-alone-that-mastodon-is-giving-me-the-ick/)
++ Finally, something from ... *me!* I wrote a small script to use GPT to make news articles more delicious and nutritious by removing bias: [nutrinews](https://pypi.org/project/nutrinews/).
+
+------------------------------------------
 ### Apr 4, 2023
 + Oh, well, looks like [some people just can't be happy.](https://www.thenation.com/article/environment/ipcc-report-climate-optimism/)
 + [Improve children's diet by extending dinnertime by 10 minutes.](https://www.reddit.com/r/science/comments/12bzhvi/increasing_family_mealtime_duration_by/) This is new? My parents would make me sit at the table for *hours* until I finished my meat.
