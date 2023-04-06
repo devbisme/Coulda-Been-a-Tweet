@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 6, 2023
++ There's something about the EU and technology, in that [they want none of it.](https://stealthoptional.com/news/italys-chatgpt-ban-spreads-to-france-germany-and-ireland/) I don't know how this works out well for them.
++ At least [the French are mad at something](https://www.cnn.com/2023/04/06/business/blackrock-office-stormed-paris-protests/index.html) in addition to tech. Like rich people.
++ AI revolutionizing the workplace? [It's going to take longer than you think.](https://old.reddit.com/r/ChatGPT/comments/12cr1gb/the_real_world_moves_slower_than_you_think_a_case/)
++ [Five times science got it wrong.](https://www.discovermagazine.com/the-sciences/5-times-that-science-got-it-wrong) Really? Only five? (But it's a good thing when science self-corrects rather than circling the wagons and chanting "Believe Science".)
+
+------------------------------------------
 ### Apr 5, 2023
 + Been putting off using brain-machine interfaces because of that nasty conductive gel or, you know, *brain surgery*? Well then, you're gonna love these [graphene-based sensors](https://spectrum.ieee.org/brain-machine-interface-dry-sensor)!
 + Meta [open-sourced a new image-segmentation AI model](https://twitter.com/DrJimFan/status/1643647849824161792) that even works on objects it's never seen before.
