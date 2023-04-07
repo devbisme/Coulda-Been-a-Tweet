@@ -4,6 +4,14 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 7, 2023
++ Doesn't look like all the links to papers are active yet, but here's the [Proceedings of the 3rd Workshop on Open-Source Design Automation (OSDA), 2023](https://arxiv.org/html/2303.18024).
++ If you're into cybersecurity, then here's a [site](https://clark.center/browse?collection=nccp&currPage=1) with hundreds of *free* classes, including some from the NSA. It's security-focused, but it also includes modules on programming, quantum computing, and reverse engineering.
++ So far this week, San Francisco has killed a [software entrepreneur](https://nypost.com/2023/04/06/bystander-ignored-dying-tech-guru-bob-lee-begging-for-help/) and the [USA cycling champion](https://www.sfchronicle.com/bayarea/article/usa-cycling-champion-dies-struck-driver-presidio-17883293.php). Unfortunately, Mayor Breed may need more high-profile deaths before she'll help SF clean up its act.
++ [Good sources](https://news.ycombinator.com/item?id=35479853) to keep up with AI. Yeah, well, good luck with that...
++ [NPR won't tweet](https://www.niemanlab.org/2023/04/npr-says-it-wont-tweet-from-npr-until-twitter-removes-false-state-affiliated-label/) until Twitter stops calling it "state-affiliated media". That sounds pretty OK since NPR tweets like they're state-affiliated media.
+
+------------------------------------------
 ### Apr 6, 2023
 + There's something about the EU and technology, in that [they want none of it.](https://stealthoptional.com/news/italys-chatgpt-ban-spreads-to-france-germany-and-ireland/) I don't know how this works out well for them.
 + At least [the French are mad at something](https://www.cnn.com/2023/04/06/business/blackrock-office-stormed-paris-protests/index.html) in addition to tech. Like rich people.
