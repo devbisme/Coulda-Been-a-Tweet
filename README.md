@@ -4,6 +4,11 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 8, 2023
++ Antmicro [announced](https://antmicro.com/blog/2023/04/open-hardware-portal/) an [open hardware portal](https://openhardware.antmicro.com/) and a design flow that makes it easy to take circuit board Gerber files and a BOM and create realistic 3D renders using Blender.
++ How human societies evolved in two parts. [Part 1](https://woodfromeden.substack.com/p/violent-enough-to-stand-still) discusses early societies where men killed each other to gain access to women who were largely self-sufficient due to adequate resources. In [part 2](https://woodfromeden.substack.com/p/why-do-humans-ever-develop?sd=pf), population pressures required more male involvement in agricultural food production, thus making workers more important than warriors and leading to societies with fewer wars.
+
+------------------------------------------
 ### Apr 7, 2023
 + Doesn't look like all the links to papers are active yet, but here's the [Proceedings of the 3rd Workshop on Open-Source Design Automation (OSDA), 2023](https://arxiv.org/html/2303.18024).
 + If you're into cybersecurity, then here's a [site](https://clark.center/browse?collection=nccp&currPage=1) with hundreds of *free* classes, including some from the NSA. It's security-focused, but it also includes modules on programming, quantum computing, and reverse engineering.
