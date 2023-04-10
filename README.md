@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 9, 2023
++ [We got a bevy open source LLMs due to a single leak](https://thesequence.substack.com/i/113372037/editorial-the-llama-effect-how-an-accidental-leak-sparked-a-series-of-impressive-open-source-alternatives-to-chatgpt). (Thanks, 4chan! Guess you're not just a meme machine.) Now the Euros want an [open-source, CERN-like recreation of Open AI](https://www.openpetition.eu/petition/online/securing-our-digital-future-a-cern-for-open-source-large-scale-ai-research-and-its-safety), but they'll probably strangle it in the cradle over safety concerns.
++ Positive movements in the West: [the US is building more factories](https://www.wsj.com/articles/american-manufacturing-factory-jobs-comeback-3ce0c52c) and [the UK is making them more flexible with 3D printing](https://ukdefencejournal.org.uk/mod-teams-up-with-industry-for-3d-printing/).
++ Engineers seem to like categorizing themselves. You're either [Type 1 or Type 2](https://registerspill.thorstenball.com/p/two-types-of-software-engineers), or a [martial artist or a street fighter](https://ravitejakanta.substack.com/p/the-2-breeds-of-10x-engineers). Couldn't care less...
++ Meanwhile, mathematicians have derived [a formula for achieving orgasm.](http://www.sussex.ac.uk/mps/internal/newsandevents?id=60611) Way to bring the magic to the bedroom, guys!
+
+------------------------------------------
 ### Apr 8, 2023
 + Antmicro [announced](https://antmicro.com/blog/2023/04/open-hardware-portal/) an [open hardware portal](https://openhardware.antmicro.com/) and a design flow that makes it easy to take circuit board Gerber files and a BOM and create realistic 3D renders using Blender.
 + How human societies evolved in two parts. [Part 1](https://woodfromeden.substack.com/p/violent-enough-to-stand-still) discusses early societies where men killed each other to gain access to women who were largely self-sufficient due to adequate resources. In [part 2](https://woodfromeden.substack.com/p/why-do-humans-ever-develop?sd=pf), population pressures required more male involvement in agricultural food production, thus making workers more important than warriors and leading to societies with fewer wars.
