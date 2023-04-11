@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 11, 2023
++ Here's [67 birthday bromides](https://github.com/devbisme/birthday_bromides) for your edification.
+
+------------------------------------------
 ### Apr 10, 2023
 + Here's a pragmatic explanation of [how to remember things using spaced repetition.](https://borretti.me/article/effective-spaced-repetition#vect)
 + If you have an OpenAI API token, then you can run [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) locally to get the same experience as using ChatGPT via the web browser version. (The advantage of the API is you are charged on a per-usage basis instead of a flat $20/month.)
