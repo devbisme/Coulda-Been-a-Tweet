@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 10, 2023
++ Here's a pragmatic explanation of [how to remember things using spaced repetition.](https://borretti.me/article/effective-spaced-repetition#vect)
++ If you have an OpenAI API token, then you can run [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) locally to get the same experience as using ChatGPT via the web browser version. (The advantage of the API is you are charged on a per-usage basis instead of a flat $20/month.)
++ Well, you knew it was coming: [Awesome ChatGPT](https://github.com/eon01/awesome-chatgpt).
+
+------------------------------------------
 ### Apr 9, 2023
 + [We got a bevy open source LLMs due to a single leak](https://thesequence.substack.com/i/113372037/editorial-the-llama-effect-how-an-accidental-leak-sparked-a-series-of-impressive-open-source-alternatives-to-chatgpt). (Thanks, 4chan! Guess you're not just a meme machine.) Now the Euros want an [open-source, CERN-like recreation of Open AI](https://www.openpetition.eu/petition/online/securing-our-digital-future-a-cern-for-open-source-large-scale-ai-research-and-its-safety), but they'll probably strangle it in the cradle over safety concerns.
 + Positive movements in the West: [the US is building more factories](https://www.wsj.com/articles/american-manufacturing-factory-jobs-comeback-3ce0c52c) and [the UK is making them more flexible with 3D printing](https://ukdefencejournal.org.uk/mod-teams-up-with-industry-for-3d-printing/).
