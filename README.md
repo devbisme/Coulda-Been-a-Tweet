@@ -7,6 +7,8 @@ All the entries are chronological with the newest at the top.
 ### Apr 12, 2023
 + Here's another awesome compendium, this time of [decentralized LLMs](https://github.com/imaurer/awesome-decentralized-llm) that you can "own".
 + Looks like NPR went extreme pouty face, took their ball, and [went home](https://www.wbur.org/npr/1169269161/npr-leaves-twitter-government-funded-media-label). Now where will I go on Twitter for all the race and gender news that's fit to spew?
++ Taiwan says [no need to destroy TSMC](https://www.techspot.com/news/96291-taiwan-destroying-tsmc-event-chinese-invasion-unnecessary.html) if China invades. With the crazy assholes in-charge in Washington, I'm surprised they haven't bombed the chip fabs already. Anybody who thinks they know the results of doing that is not aware of [what can happen when you ignore ecosystem effects.](https://www.historydefined.net/how-killing-sparrows-led-to-one-of-the-greatest-famines-in-history/)
++ To save the planet, [Germany has decided to close its last three nuclear plants](https://www.euronews.com/green/2023/04/11/germany-turns-its-back-on-nuclear-for-good-despite-europes-energy-crisis) and burn more gas and coal. The thinking is they don't need 'em since they made it through the winter just fine. In related news, Germany was awarded the "Short-Sighted Dumbass of the Year Award" for 2023. Yeah, the whole country.
 
 ------------------------------------------
 ### Apr 11, 2023
