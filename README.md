@@ -4,7 +4,7 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
-### Apr 11, 2023
+### Apr 12, 2023
 + Here's another awesome compendium, this time of [decentralized LLMs](https://github.com/imaurer/awesome-decentralized-llm) that you can "own".
 + Looks like NPR went extreme pouty face, took their ball, and [went home](https://www.wbur.org/npr/1169269161/npr-leaves-twitter-government-funded-media-label). Now where will I go on Twitter for all the race and gender news that's fit to spew?
 
