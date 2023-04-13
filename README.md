@@ -4,6 +4,14 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 13, 2023
++ There's a Youtube series focusing on AI hardware and here's the [first episode](https://www.youtube.com/watch?v=pQzf_1AkNXw).
++ In the debate about AI's affect on the workforce, here's a [datapoint](https://www.artisana.ai/articles/chinas-video-game-ai-art-crisis-40x-productivity-spike-70-job-loss): a 70% reduction in job postings for Chinese videogame illustrators with a 40x gain in productivity. Of course, some customers complain about in-game characters with too many fingers or missing legs...
++ [Germany's economy is suffering](https://www.apricitas.io/p/germanys-slowdown), partly from energy deficits. Households and companies have had to cut energy use by 18% and they're still gonna shutter their last three nukes. Sheesh!
++ Looks like that murder of the tech entrepreneur in SF [might not have been random violence](https://missionlocal.org/2023/04/bob-lee-killing-arrest-made-san-francisco/) after all. And score one for SF police: they actually arrested somebody!
++ A [study across five divergent species](https://www.nature.com/articles/d41586-023-01040-x) exposed a common link that affects aging: DNA-to-RNA transcription becomes faster and more error-prone as we age.
+
+------------------------------------------
 ### Apr 12, 2023
 + Here's another awesome compendium, this time of [decentralized LLMs](https://github.com/imaurer/awesome-decentralized-llm) that you can "own".
 + Looks like NPR went extreme pouty face, took their ball, and [went home](https://www.wbur.org/npr/1169269161/npr-leaves-twitter-government-funded-media-label). Now where will I go on Twitter for all the race and gender news that's fit to spew?
