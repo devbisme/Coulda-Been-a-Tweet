@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 14, 2023
++ An interesting [interview](https://www.youtube.com/watch?v=92E7YRgBIGs) with sci-fi author David Brin.
++ [WikiBinge](https://www.wikibinge.com/) attempts to show a "vague" connection between any two items you enter into their form. I was hoping it would generate something akin to a mini-version of a [James Burke "Connections"](https://www.imdb.com/title/tt0078588/) episode. Unfortunately, it just lists a chain of articles that are related, usually by having some words in common. Seems like this could now be done much better with GPT...
++ I don't agree with the [AI Pause letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/). [This](https://www.oreilly.com/content/you-cant-regulate-what-you-dont-understand-2/) seems like a better alternative since much of the direction would come from within the AI industry itself. Even so, I'm sure government will try some ham-fisted regulation and we'll end up with the AI version of the NRC: No nukes **and** no AI for you!
+
+------------------------------------------
 ### Apr 13, 2023
 + There's a Youtube series focusing on AI hardware and here's the [first episode](https://www.youtube.com/watch?v=pQzf_1AkNXw).
 + In the debate about AI's affect on the workforce, here's a [datapoint](https://www.artisana.ai/articles/chinas-video-game-ai-art-crisis-40x-productivity-spike-70-job-loss): a 70% reduction in job postings for Chinese videogame illustrators with a 40x gain in productivity. Of course, some customers complain about in-game characters with too many fingers or missing legs...
