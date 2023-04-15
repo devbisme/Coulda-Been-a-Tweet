@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 15, 2023
++ [How to run AutoGPT](https://www.tomshardware.com/how-to/auto-gpt-ai-agent): Now you can just set up your tasks and let ChatGPT go to work on them. All you've got to do is say "Yep, keep going" every once and a while until they're all done.
++ [Starship orbital flight test](https://everydayastronaut.com/starship-superheavy-orbital-flight-test/) scheduled for April 17th!
++ [Something out there is really bright!](https://www.livescience.com/space/cosmology/bizarre-object-10-million-times-brighter-than-the-sun-defies-physics-nasa-says) Must be a neutron star surpassing the [Eddington Limit](https://www.britannica.com/science/Eddington-mass-limit) which was calculated by a guy who had a [TV movie](https://www.imdb.com/title/tt0995036/) made about him and Einstein. There, now your day has not been wasted...
+
+------------------------------------------
 ### Apr 14, 2023
 + An interesting [interview](https://www.youtube.com/watch?v=92E7YRgBIGs) with sci-fi author David Brin.
 + [WikiBinge](https://www.wikibinge.com/) attempts to show a "vague" connection between any two items you enter into their form. I was hoping it would generate something akin to a mini-version of a [James Burke "Connections"](https://www.imdb.com/title/tt0078588/) episode. Unfortunately, it just lists a chain of articles that are related, usually by having some words in common. Seems like this could now be done much better with GPT...
