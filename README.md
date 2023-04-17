@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 16, 2023
++ I've always liked the idea of [constraint programming](https://mareknarozniak.com/2020/06/22/constraint-programming/): Set up the constraints and then let the computer figure out the answer. My problem has always been with learning the syntax of the various libraries. I have a similar problem with `matplotlib`, but then I used ChatGPT to iteratively evolve a graph showing per-capital GDPs for a set of countries. Maybe I can do the same thing for constraint programming libraries?
++ AI algorithm designers won't settle down enough to let AI chip designers [sleep at night](https://semiengineering.com/nightmare-fuel-the-hazards-of-ml-hardware-accelerators/).
++ [Financial software meets LLMs](https://www.nextplatform.com/2023/04/13/where-financial-models-meet-large-language-models/): It's like a match made in heaven. That is, if you consider Frankenstein getting up with Voltron a heavenly match...
++ People are freaking out about stuff, but [people have always freaked out about stuff](https://medium.com/grimhistorian/8-inventions-that-once-freaked-people-out-way-more-than-a-i-27e703a52b90).
+
+------------------------------------------
 ### Apr 15, 2023
 + [How to run AutoGPT](https://www.tomshardware.com/how-to/auto-gpt-ai-agent): Now you can just set up your tasks and let ChatGPT go to work on them. All you've got to do is say "Yep, keep going" every once and a while until they're all done.
 + [Starship orbital flight test](https://everydayastronaut.com/starship-superheavy-orbital-flight-test/) scheduled for April 17th!
