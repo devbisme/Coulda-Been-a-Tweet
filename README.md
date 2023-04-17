@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 17, 2023
++ The case for [unlocking firmware](https://www.theregister.com/2023/04/17/opinion_column/).
++ Somebody wrote a little [Python script to flesh-out links in their posts](https://animaomnium.github.io/keep-stuff-linkable/). Quite frankly, I think authors lean on links a bit *too much*. Instead of providing a pithy summary of something to support their argument, they just link to some external page and say "So there!" Then you have to descend into that link, read it, parse how it relates to what you were reading, and then pop back up to the original article where you'll soon encounter *another link*. It's exhausting.
++ I wrote a [forum post](https://forum.kicad.info/t/ai-artificial-intelligence/40642/57?u=devbisme) on using GPT4 to create part symbols for KiCad.
+
+------------------------------------------
 ### Apr 16, 2023
 + I've always liked the idea of [constraint programming](https://mareknarozniak.com/2020/06/22/constraint-programming/): Set up the constraints and then let the computer figure out the answer. My problem has always been with learning the syntax of the various libraries. I have a similar problem with `matplotlib`, but then I used ChatGPT to iteratively evolve a graph showing per-capital GDPs for a set of countries. Maybe I can do the same thing for constraint programming libraries?
 + AI algorithm designers won't settle down enough to let AI chip designers [sleep at night](https://semiengineering.com/nightmare-fuel-the-hazards-of-ml-hardware-accelerators/).
