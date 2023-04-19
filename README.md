@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 18, 2023
++ [High-res MRI scans](https://today.duke.edu/2023/04/brain-images-just-got-64-million-times-sharper) with voxels down to 5 microns in size are now possible. Typical MRIs in clinics have voxels of 1-2 millimeters. Don't expect this at your doctor's, though. The article says one step is to send "the tissue" out for "light sheet microscopy." That sounds like the brain is no longer inside the head...
++ The guy that invented the lithium battery says [we've got a lot of work to do to make it better.](https://spectrum.ieee.org/lithium-ion-battery-disruption-ready)
++ Here's a [list of programming playgrounds](https://github.com/ymyzk/awesome-playgrounds) where you can try various languages in your browser.
+
+------------------------------------------
 ### Apr 17, 2023
 + The case for [unlocking firmware](https://www.theregister.com/2023/04/17/opinion_column/).
 + Somebody wrote a little [Python script to flesh-out links in their posts](https://animaomnium.github.io/keep-stuff-linkable/). Quite frankly, I think authors lean on links a bit *too much*. Instead of providing a pithy summary of something to support their argument, they just link to some external page and say "So there!" Then you have to descend into that link, read it, parse how it relates to what you were reading, and then pop back up to the original article where you'll soon encounter *another link*. It's exhausting.
