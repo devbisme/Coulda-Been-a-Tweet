@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 19, 2023
++ The problem is, governments write far-reaching laws that have consequences nobody can predict. Today's case in point: the [Python Software Foundation says they may no longer be able to offer access to PyPi to the EU.](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html)
+
+------------------------------------------
 ### Apr 18, 2023
 + [High-res MRI scans](https://today.duke.edu/2023/04/brain-images-just-got-64-million-times-sharper) with voxels down to 5 microns in size are now possible. Typical MRIs in clinics have voxels of 1-2 millimeters. Don't expect this at your doctor's, though. The article says one step is to send "the tissue" out for "light sheet microscopy." That sounds like the brain is no longer inside the head...
 + The guy that invented the lithium battery says [we've got a lot of work to do to make it better.](https://spectrum.ieee.org/lithium-ion-battery-disruption-ready)
