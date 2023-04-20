@@ -6,6 +6,10 @@ All the entries are chronological with the newest at the top.
 ------------------------------------------
 ### Apr 19, 2023
 + The problem is, governments write far-reaching laws that have consequences nobody can predict. Today's case in point: the [Python Software Foundation says they may no longer be able to offer access to PyPi to the EU.](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html)
++ Have an [LLM translate your word problem into equations](https://ai.papers.bar/paper/7f196b34de4f11edb95839eec3084ddd) and pass those to a symbolic math package for a solution.
++ [A third of "researchers" believe AI could lead to catastrophe](https://fortune.com/2023/04/10/ai-nuclear-level-catastrophe-experts-stanford/) according to the Institute for Human-Centered AI. That's probably the third that is working on AI safety...
++ [Drop a PDF](https://www.chatpdf.com/) and then get answers to questions about it. Seems a bit like [explainpaper.com](https://explainpaper.com).
++ Either believe in dark energy, or be willng to [tweak gravity a bit](https://www.advancedsciencenews.com/modified-theory-of-gravity-eliminates-the-need-for-dark-energy/). Maybe we're at a similar point as when it was thought that light propagation through space required it be filled with "ether" and then the [Michelson-Morley experiment](https://www.wikiwand.com/en/Michelson%E2%80%93Morley_experiment) blew that out of the water.
 
 ------------------------------------------
 ### Apr 18, 2023
