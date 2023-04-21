@@ -6,6 +6,7 @@ All the entries are chronological with the newest at the top.
 ------------------------------------------
 ### Apr 21, 2023
 + CATL (world's largest battery manufacturer) [announced](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/) they will start producing a battery *this year* with an energy density of 500 Wh/Kg as compared to the ~285 Wh/Kg of the Tesla 4680 cell. For comparison, gasoline when burned in an internal combustion engine has about 3,000 - 4,000 Wh/Kg.
++ Gosh, you want to build EVs? Well, [Chile just nationalized their lithium industry](https://www.reuters.com/markets/commodities/chiles-boric-announces-plan-nationalize-lithium-industry-2023-04-21/) (2nd largest in the world behind Australia). Let's hope this doesn't turn out like when Venezuela nationalized their oil industry...
 
 ------------------------------------------
 ### Apr 20, 2023
