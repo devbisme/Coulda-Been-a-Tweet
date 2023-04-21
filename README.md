@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 20, 2023
++ Well, [SpaceX's Starship ascended 24 miles](https://apnews.com/article/spacex-starship-launch-elon-musk-d9989401e2e07cdfc9753f352e44f6e2) before it had to self-destruct when it became unstable. Good effort, lots of data gathered for the next attempt.
++ Problems of the Future: The Inmarsat-41 satellite went down and Australian farmers were [unable to plant their winter crop.](https://www.smh.com.au/national/farmers-crippled-by-satellite-failure-as-gps-guided-tractors-grind-to-a-halt-20230418-p5d1de.html)
++ And now the AI lawsuits arrive, starting with [Reddit](https://futurism.com/the-byte/reddit-demands-payments-ai-trained), [Tom Brady](https://www.tmz.com/2023/04/20/tom-brady-threatens-lawsuit-over-ai-special-comedians-take-video-down/), and [Michael Schumacher](https://www.reuters.com/sports/motor-sports/schumacher-family-planning-legal-action-over-ai-interview-2023-04-19/).
+
+------------------------------------------
 ### Apr 19, 2023
 + The problem is, governments write far-reaching laws that have consequences nobody can predict. Today's case in point: the [Python Software Foundation says they may no longer be able to offer access to PyPi to the EU.](https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html)
 + Have an [LLM translate your word problem into equations](https://ai.papers.bar/paper/7f196b34de4f11edb95839eec3084ddd) and pass those to a symbolic math package for a solution.
