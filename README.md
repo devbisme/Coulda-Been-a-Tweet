@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 21, 2023
++ CATL (world's largest battery manufacturer) [announced](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/) they will start producing a battery *this year* with an energy density of 500 Wh/Kg as compared to the ~285 Wh/Kg of the Tesla 4680 cell. For comparison, gasoline when burned in an internal combustion engine has about 3,000 - 4,000 Wh/Kg.
+
+------------------------------------------
 ### Apr 20, 2023
 + Well, [SpaceX's Starship ascended 24 miles](https://apnews.com/article/spacex-starship-launch-elon-musk-d9989401e2e07cdfc9753f352e44f6e2) before it had to self-destruct when it became unstable. Good effort, lots of data gathered for the next attempt.
 + Problems of the Future: The Inmarsat-41 satellite went down and Australian farmers were [unable to plant their winter crop.](https://www.smh.com.au/national/farmers-crippled-by-satellite-failure-as-gps-guided-tractors-grind-to-a-halt-20230418-p5d1de.html)
