@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 22, 2023
++ There are lots of Python packages to simplify building GUI interfaces ([PySimpleGUI](https://pypi.org/project/PySimpleGUI/)) and CLIs ([click](https://pypi.org/project/click/)). Now add [duckargs](https://github.com/eriknyquist/duckargs) which is a program that accepts a description of the arguments for your program and outputs the [argparse](https://docs.python.org/3/library/argparse.html) calls to build the CLI.
++ I use the OpenAI API with [Chatbot-UI](https://github.com/mckaywrigley/chatbot-ui) for chat-style stuff, but [here's](https://www.makeuseof.com/generate-images-using-openai-api-dalle-python/) how to also use the API for image-generation tasks with DALL-E 2. (Also, here's a [tutorial on CLIP](https://amaarora.github.io/posts/2023-03-06_Understanding_CLIP.html) which is used in DALL-E 2.)
++ Somebody wrote a [Python REPL coupled with ChatGPT](https://isthisit.nz/posts/2023/building-a-chat-gpt-enhanced-python-repl/) to do code development using prompts. And [here](https://danielmiessler.com/blog/spqa-ai-architecture-replace-existing-software/) is another take on how LLMs will change our model of software development.
++ Want to buy fake stars to make your Github project look more impressive? Or suspicious that others are doing that? [There are ways to detect such perfidy!](https://dagster.io/blog/fake-stars)
+
+------------------------------------------
 ### Apr 21, 2023
 + CATL (world's largest battery manufacturer) [announced](https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/) they will start producing a battery *this year* with an energy density of 500 Wh/Kg as compared to the ~285 Wh/Kg of the Tesla 4680 cell. For comparison, gasoline when burned in an internal combustion engine has about 3,000 - 4,000 Wh/Kg.
 + Gosh, you want to build EVs? Well, [Chile just nationalized their lithium industry](https://www.reuters.com/markets/commodities/chiles-boric-announces-plan-nationalize-lithium-industry-2023-04-21/) (2nd largest in the world behind Australia). Let's hope this doesn't turn out like when Venezuela nationalized their oil industry...
