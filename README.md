@@ -5,6 +5,11 @@ All the entries are chronological with the newest at the top.
 
 ------------------------------------------
 ### Apr 22, 2023
++ I just ran across [langchain](https://python.langchain.com/en/latest/index.html#) as a system for integrating LLMs into applications that do more than just chat. It will be interesting to see how this relates to something like AutoGPT.
++ [Billionaires betting big on fusion](https://www.wsj.com/articles/tech-billionaires-bet-on-fusion-as-holy-grail-for-business-9a48a2ac). Good luck: we've been having trouble even getting fission plants built.
+
+------------------------------------------
+### Apr 22, 2023
 + There are lots of Python packages to simplify building GUI interfaces ([PySimpleGUI](https://pypi.org/project/PySimpleGUI/)) and CLIs ([click](https://pypi.org/project/click/)). Now add [duckargs](https://github.com/eriknyquist/duckargs) which is a program that accepts a description of the arguments for your program and outputs the [argparse](https://docs.python.org/3/library/argparse.html) calls to build the CLI.
 + I use the OpenAI API with [Chatbot-UI](https://github.com/mckaywrigley/chatbot-ui) for chat-style stuff, but [here's](https://www.makeuseof.com/generate-images-using-openai-api-dalle-python/) how to also use the API for image-generation tasks with DALL-E 2. (Also, here's a [tutorial on CLIP](https://amaarora.github.io/posts/2023-03-06_Understanding_CLIP.html) which is used in DALL-E 2.)
 + Somebody wrote a [Python REPL coupled with ChatGPT](https://isthisit.nz/posts/2023/building-a-chat-gpt-enhanced-python-repl/) to do code development using prompts. And [here](https://danielmiessler.com/blog/spqa-ai-architecture-replace-existing-software/) is another take on how LLMs will change our model of software development.
