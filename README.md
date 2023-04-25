@@ -4,7 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
-### Apr 22, 2023
+### Apr 24, 2023
++ I've started going through the [fast.ai deep learning tutorial](https://course.fast.ai/) in preparation for starting the [Hugging Face course](https://huggingface.co/learn/nlp-course/chapter1/1). You can accomplish *a lot* in AI without having a solid foundation, but there's no cost for learning the underpinning basics except time.
++ [A comparison of the AI and Industrial Revolutions.](https://streamlife.com/technology/a-tale-of-two-revolutions-how-ai-is-following-in-the-footsteps-of-the-industrial-revolution/) I like these historical compare-and-contrast articles, like this book that examines [the societal impacts of the internet and the telegraph.](https://www.amazon.com/Victorian-Internet-Remarkable-Nineteenth-line/dp/162040592X)
++ ["The Free World Must Stay the Course on Ukraine!"]() How about you just eat me. You may get off by moving little pins around on the geopolitical map, but that doesn't mean the rest of us have to indulge your psychopathic BS.
+
+------------------------------------------
+### Apr 23, 2023
 + I just ran across [langchain](https://python.langchain.com/en/latest/index.html#) as a system for integrating LLMs into applications that do more than just chat. It will be interesting to see how this relates to something like AutoGPT.
 + [Billionaires betting big on fusion](https://www.wsj.com/articles/tech-billionaires-bet-on-fusion-as-holy-grail-for-business-9a48a2ac). Good luck: we've been having trouble even getting fission plants built.
 
