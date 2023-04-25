@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 25, 2023
++ It's hard finding stuff that's not about ChatGPT/AI. [Here's why](https://hn.curiosity.ai/#/trends?terms=AI;ChatGPT)
++ [Congress got forty ChatGPT licenses](https://fedscoop.com/congress-gets-40-chatgpt-plus-licenses/) to start experimenting with the tech before they start regulating the hell out of it. Most probable first questions they ask it: "Where can I find the best child porn?" and "What's the going rate for a Senatorial bribe?"
++ [Left-handers are more vulnerable in a fight](https://www.mdpi.com/2073-8994/15/4/940) which supresses their numbers in a population, but they can still surprise you tactically so they tend not to die out completely.
++ And here's your weekly reminder that [doing space stuff is hard.](https://www.cnn.com/2023/04/25/world/lunar-lander-japan-uae-hakuto-r-scn/index.html) Iteration is the norm in this area.
+
+------------------------------------------
 ### Apr 24, 2023
 + I've started going through the [fast.ai deep learning tutorial](https://course.fast.ai/) in preparation for starting the [Hugging Face course](https://huggingface.co/learn/nlp-course/chapter1/1). You can accomplish *a lot* in AI without having a solid foundation, but there's no cost for learning the underpinning basics except time.
 + [A comparison of the AI and Industrial Revolutions.](https://streamlife.com/technology/a-tale-of-two-revolutions-how-ai-is-following-in-the-footsteps-of-the-industrial-revolution/) I like these historical compare-and-contrast articles, like this book that examines [the societal impacts of the internet and the telegraph.](https://www.amazon.com/Victorian-Internet-Remarkable-Nineteenth-line/dp/162040592X)
