@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 26, 2023
++ [This](https://d-s.sh/2023/mastodon-has-already-won/) will go down as a declaration of premature victory comparable to George Bush's "Mission accomplished!" [Here's](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/) the counterpoint.
++ [Colleges remove data science from list of recommended HS math courses.](https://stanforddaily.com/2023/04/25/stanford-harvard-revise-high-school-math-curriculum-recommendations-exclude-data-science/) Of course they're going to remove something that students find fun and practical. *Get back to doing those integrals!* Didn't they learn when they tried to kill off calculators in the 70's?
++ More demographics news: [Japan's population expected to shrink by 1/3 to 87M by 2070](https://www3.nhk.or.jp/nhkworld/en/news/20230426_23/)
++ [A college degree is worth it](https://www.washingtonpost.com/opinions/2023/04/26/college-degree-value-investment-return/) according to ... the President of Princeton. Shocking!
+
+------------------------------------------
 ### Apr 25, 2023
 + It's hard finding stuff that's not about ChatGPT/AI. [Here's why](https://hn.curiosity.ai/#/trends?terms=AI;ChatGPT)
 + [Congress got forty ChatGPT licenses](https://fedscoop.com/congress-gets-40-chatgpt-plus-licenses/) to start experimenting with the tech before they start regulating the hell out of it. Most probable first questions they ask it: "Where can I find the best child porn?" and "What's the going rate for a Senatorial bribe?"
