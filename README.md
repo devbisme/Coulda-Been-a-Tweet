@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 28, 2023
++ Well, here's another [crap article](https://decrypt.co/138310/openai-researcher-chance-ai-catastrophe) putting forth unsupported warnings that ChatGPT's children will kill us all. From a guy who heads an AI alignment foundation, of course.
++ How can AI destroy the world if [it's just a waste of time](https://www.theatlantic.com/ideas/archive/2023/04/ai-technology-productivity-time-wasting/673880/) because most people are just using it as a toy? Kinda like the internet back when it started...
++ Read about [how the CIA subverted Guatemala's democracy](https://narratively.com/the-literally-unbelievable-story-of-the-original-fake-news-network/) and connect the dots to what's happening today.
++ [New York to ban gas stoves](https://www.nytimes.com/2023/04/28/nyregion/gas-stove-ban-ny.html) and [California to ban diesel trucks](https://www.cnbc.com/2023/04/28/california-bans-the-sale-of-new-diesel-trucks-by-2036.html). Move over Germany, we're breeding our own species of dumb!
+
+------------------------------------------
 ### Apr 26, 2023
 + [This](https://d-s.sh/2023/mastodon-has-already-won/) will go down as a declaration of premature victory comparable to George Bush's "Mission accomplished!" [Here's](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/) the counterpoint.
 + [Colleges remove data science from list of recommended HS math courses.](https://stanforddaily.com/2023/04/25/stanford-harvard-revise-high-school-math-curriculum-recommendations-exclude-data-science/) Of course they're going to remove something that students find fun and practical. *Get back to doing those integrals!* Didn't they learn when they tried to kill off calculators in the 70's?
