@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 29, 2023
++ Use [this site](https://www.you-tldr.com/) to get the gist of all those too-long Youtube videos you feel you must watch. But don't get your hopes up that it will generate some super-short video summary. It appears to extract a transcript and an associated summary. (I'm not exactly sure since I accidentally exceeded my free, daily limit of one video.)
++ [Study](https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions): "ChatGPT outperforms physicians in high-quality, empathetic answers to patient questions." Certainly a low bar given current healthcare practices...
++ [Another benefit from taking vitamin D](https://www.mdpi.com/2072-6643/15/7/1765): reducing depression and suicide. Of course, I remember the 80's & 90's when vitamins C & E were also considered wonder supplements.
+
+------------------------------------------
 ### Apr 28, 2023
 + Well, here's another [crap article](https://decrypt.co/138310/openai-researcher-chance-ai-catastrophe) putting forth unsupported warnings that ChatGPT's children will kill us all. From a guy who heads an AI alignment foundation, of course.
 + How can AI destroy the world if [it's just a waste of time](https://www.theatlantic.com/ideas/archive/2023/04/ai-technology-productivity-time-wasting/673880/) because most people are just using it as a toy? Kinda like the internet back when it started...
