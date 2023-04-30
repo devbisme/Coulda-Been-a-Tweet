@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### Apr 30, 2023
++ You piss-off one customer for a few hundred dollars and [your whole Ponzi scheme comes down on your head](https://thehustle.co/the-secretary-who-helped-uncover-one-of-americas-strangest-ponzi-schemes/). The kicker: after getting out of jail, he gets convicted a few years later for running another completely unrelated scam. At least he's not a [one-trick pony](https://www.merriam-webster.com/dictionary/one-trick%20pony).
++ [Which countries are most online?](https://www.techspot.com/news/98504-study-identifies-which-countries-spend-most-time-starting.html) I was surprised it was South Africa whose population averages 58% of their waking hours looking at screens. And Japan is the lowest at 22%. But, according to [this](https://www.insiderintelligence.com/content/north-america-holds-top-spot-internet-usage), North America holds the top spot if you rate it by the total percentage of people who have *used* the internet, regardless of for how long.
++ Quite frankly, [ChatGPT operating costs of $700K per day](https://www.techspot.com/news/98422-chatgpt-costs-eye-watering-700000day-operate-claims-new.html) seems pretty reasonable for the impact it's having.
++ We're saved! The G-7 ministers came up with [five principles to govern AI](https://english.kyodonews.net/news/2023/04/2fc562a4022c-update1-g-7-ministers-meet-with-ai-risks-digital-infrastructure-in-focus.html). And, yes, they're every bit as unspecific and nebulous as you would expect.
+
+------------------------------------------
 ### Apr 29, 2023
 + Use [this site](https://www.you-tldr.com/) to get the gist of all those too-long Youtube videos you feel you must watch. But don't get your hopes up that it will generate some super-short video summary. It appears to extract a transcript and an associated summary. (I'm not exactly sure since I accidentally exceeded my free, daily limit of one video.)
 + [Study](https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions): "ChatGPT outperforms physicians in high-quality, empathetic answers to patient questions." Certainly a low bar given current healthcare practices...
