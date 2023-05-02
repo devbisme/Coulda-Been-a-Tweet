@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 2, 2023
++ [Some opinions of other things going on besides AI:](https://news.ycombinator.com/item?id=35792898) Mostly computer-related, but a bit of other stuff.
++ [Exercise increases your population of tumor-fighting cells.](https://www.utu.fi/en/news/press-release/exercise-increases-the-number-of-cancer-destroying-immune-cells-in-cancer) So be sure to hit those weights after your chemo!
++ [Options for hosting your machine learning models.](https://news.ycombinator.com/item?id=35792481)
++ A Transformer was trained on neural waveforms as stories were read to study participants and was then able to [output their thoughts as text](https://www.vice.com/en/article/4a3w3g/scientists-use-gpt-ai-to-passively-read-peoples-thoughts-in-breakthrough) based on their neural activations as they heard new stories.
+
+------------------------------------------
 ### May 1, 2023
 + This would be exciting: [a replacement for the Haber-Bosch process](https://scitechdaily.com/just-add-water-stanford-researchers-have-discovered-a-simple-and-eco-friendly-way-to-make-ammonia/) that can break the bond of atmospheric nitrogen at room temperature and pressure. That would provide an energy-efficient way to make ammonia and then fertilizer. If it scales up that is, which these things seldom do.
 + Another in the endless list of reasons we can't get anything done: [Environmentalists sue the FAA over permits for SpaceX launch.](https://news.yahoo.com/environmentalists-sue-faa-over-spacex-164444196.html?guccounter=1&guce_referrer=aHR0cHM6Ly9za2ltZmVlZC5jb20v&guce_referrer_sig=AQAAAD3F5uOT7M2mR8vk6O8Zgevz9wCGiilLSr7t75r4QAi2opZLO44x_mBA3TDhrplsGzWdLChNszdBOV_LAvTuulO8fgZoKzojboZTRz2KcYxXLNiRippE1LTcShSj2zZ8dx9k5Fv7gq49ryLXKH46Y1_s0GF4ipuhyY7YdowveoDB) They are requesting "more environmental studies." If these guys had their way, Neil Armstrong would have died as an unknown Navy airman.
