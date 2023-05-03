@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 3, 2023
++ Well, the geniuses who brought us the Afghanistan withdrawal are [calling in the chiefs of Google and Microsoft](https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02/) to make sure AI is only released to the public once it's "safe" (i.e. neutered).
++ [Eighth-graders continue doing poorly in history](https://www.nytimes.com/2023/05/03/us/us-history-test-scores.html). But don't worry! They'll always be able to query ChatGPT for the facts (once the White House approves a suitably neutered version).
++ Videogame maker [Unity is laying off another 600](https://venturebeat.com/games/unity-lays-off-600-staff-members-prepares-to-close-half-of-its-offices/) in order to "realign some of our resources to better drive focus and support our long-term growth.” They'll probably be replaced with AI tools similar to [what's happening in China's video game industry](https://www.artisana.ai/articles/chinas-video-game-ai-art-crisis-40x-productivity-spike-70-job-loss).
+
+------------------------------------------
 ### May 2, 2023
 + [Some opinions of other things going on besides AI:](https://news.ycombinator.com/item?id=35792898) Mostly computer-related, but a bit of other stuff.
 + [Exercise increases your population of tumor-fighting cells.](https://www.utu.fi/en/news/press-release/exercise-increases-the-number-of-cancer-destroying-immune-cells-in-cancer) So be sure to hit those weights after your chemo!
