@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 5, 2023
++ Vector databases are used to store and look-up feature values for AI that are translated into single-dimension numeric arrays called *embeddings*. [Here's](https://www.pinecone.io/learn/vector-database/) the gist of how they work.
++ Google could have taken one of several approaches in response to yesterday's [leaked memo](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither?publication_id=329241&post_id=119223672&isFreemail=true) on how open source developers were out-innovating them in AI. Looks like they decided to [become even more closed.](https://www.businessinsider.com/google-publishing-less-confidential-ai-research-to-compete-with-openai-2023-4)
++ This [article](https://www.city-journal.org/article/public-educations-days-of-reckoning) about declining public school enrollments had one item that surprised me: New York City's schools spend almost $40K per student each year. That seems like a lot.
++ I should never look askance at what others find interesting, but this guy has spent a little too much time [thinking about swings.](https://aeon.co/essays/the-swing-has-a-universal-history-of-transgression)
+
+------------------------------------------
 ### May 4, 2023
 + [This internal Google doc](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither?publication_id=329241&post_id=119223672&isFreemail=true) is making the rounds today. The basic premise is that open source fine-tuning for specific applications of LLMs is proceeding faster and making greater progress than from-scratch training of large models with massive data sets at Google and OpenAI. Looks like the White House can forget about fencing AI into their public safety corral.
 + As things like agents and AutoGPT take precedence in AI, I see more and more references to LangChain. Here is a [simple re-implementation](https://blog.scottlogic.com/2023/05/04/langchain-mini.html) of it in 100 lines of Javascript.
