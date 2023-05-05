@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 4, 2023
++ [This internal Google doc](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither?publication_id=329241&post_id=119223672&isFreemail=true) is making the rounds today. The basic premise is that open source fine-tuning for specific applications of LLMs is proceeding faster and making greater progress than from-scratch training of large models with massive data sets at Google and OpenAI. Looks like the White House can forget about fencing AI into their public safety corral.
++ As things like agents and AutoGPT take precedence in AI, I see more and more references to LangChain. Here is a [simple re-implementation](https://blog.scottlogic.com/2023/05/04/langchain-mini.html) of it in 100 lines of Javascript.
++ Take a look at the section on interesting projects in this [Python Weekly](https://mailchi.mp/pythonweekly/python-weekly-issue-598?e=f8ee9f6470) and count the number that reference AI, LLMs, or GPT.
++ Just so today's links aren't all about AI: If you've got some free time, maybe you can solve [this mystery](https://www.cbsnews.com/news/pasta-new-jersey-mysteriously-dumped-in-old-bridge-woods/).
+
+------------------------------------------
 ### May 3, 2023
 + Well, the geniuses who brought us the Afghanistan withdrawal are [calling in the chiefs of Google and Microsoft](https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02/) to make sure AI is only released to the public once it's "safe" (i.e. neutered).
 + [Eighth-graders continue doing poorly in history](https://www.nytimes.com/2023/05/03/us/us-history-test-scores.html). But don't worry! They'll always be able to query ChatGPT for the facts (once the White House approves a suitably neutered version).
