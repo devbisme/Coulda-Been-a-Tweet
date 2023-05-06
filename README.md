@@ -4,6 +4,11 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 6, 2023
++ Another disease that may be due to bacteria: [Parkinson's.](https://yle.fi/a/74-20030498) On the other hand, [this study](https://theconversation.com/does-our-gut-microbiota-really-influence-our-health-and-life-expectancy-199082) found no causal link between the gut microbiome and chronic diseases. This latter study used a technique called *Mendelian randomization* which I could not understand at all from the [Wikipedia entry](https://www.wikiwand.com/en/Mendelian_randomization). Luckily, ChatGPT was able to provide a simple example of how it works.
++ All these years I've been incorrectly using the phrase ["comprised of".](https://en.wikipedia.org/wiki/User:Giraffedata/comprised_of)
+
+------------------------------------------
 ### May 5, 2023
 + Vector databases are used to store and look-up feature values for AI that are translated into single-dimension numeric arrays called *embeddings*. [Here's](https://www.pinecone.io/learn/vector-database/) the gist of how they work.
 + Google could have taken one of several approaches in response to yesterday's [leaked memo](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither?publication_id=329241&post_id=119223672&isFreemail=true) on how open source developers were out-innovating them in AI. Looks like they decided to [become even more closed.](https://www.businessinsider.com/google-publishing-less-confidential-ai-research-to-compete-with-openai-2023-4)
