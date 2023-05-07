@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 7, 2023
++ Autoimmune diseases now affect about [10% of the population.](https://www.gla.ac.uk/news/headline_952084_en.html) I wonder how many of those have bacterial or viral causes.
++ This list of [AI Chrome extensions](https://mpost.io/10-best-ai-chrome-extensions-in-2023/) can help you get experience before you lose your job to ChatGPT [like this guy.](https://old.reddit.com/r/ChatGPT/comments/139o1q6/lost_all_my_content_writing_contracts_feeling/)
++ [A ChatGPT interface to make a PhD thesis more understandable to non-experts.](https://www.christophgoetz.com/custom-chat-bot-from-thesis-to-enhance-accessibility/) This is reminiscient of my use of ChatGPT to get an understanding of Mendelian randomization when I found the Wikipedia article too dense.
+
+------------------------------------------
 ### May 6, 2023
 + Another disease that may be due to bacteria: [Parkinson's.](https://yle.fi/a/74-20030498) On the other hand, [this study](https://theconversation.com/does-our-gut-microbiota-really-influence-our-health-and-life-expectancy-199082) found no causal link between the gut microbiome and chronic diseases. This latter study used a technique called *Mendelian randomization* which I could not understand at all from the [Wikipedia entry](https://www.wikiwand.com/en/Mendelian_randomization). Luckily, ChatGPT was able to provide a simple example of how it works.
 + All these years I've been incorrectly using the phrase ["comprised of".](https://en.wikipedia.org/wiki/User:Giraffedata/comprised_of)
