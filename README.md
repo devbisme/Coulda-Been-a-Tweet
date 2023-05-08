@@ -4,6 +4,13 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 8, 2023
++ I discovered this [great site for explanatory articles about machine learning](https://distill.pub/) only to find it went on hiatus in 2021 for the usual reason: it was too much work. The site editors recommend another method that requires much less work (for them): self-publishing.
++ Here's how to [give GPT and other LLMs access to more knowledge](https://sudoapps.substack.com/p/giving-gpt-infinite-knowledge). It's similar to how that guy [built a ChatGPT interface to his quantum biology PhD thesis.](https://www.christophgoetz.com/custom-chat-bot-from-thesis-to-enhance-accessibility/)
++ [Returning to the office could make you a fat drunk](https://nypost.com/2023/05/08/return-to-office-could-make-you-fat-alcoholic-study/), so follow these [common-sense things to keep fat off.](https://primecuts.substack.com/p/the-ten-things-i-do-to-burn-fat-like) Or you can just buy the [latest piece of hyped exercise equipment](https://www.wired.com/story/goruck-sand-kettlebell-rave/) and store it in your closet.
++ This [story](https://www.spytalk.co/p/exclusive-fbi-agents-accuse-cia-of) about the CIA being involved with some of the 9/11 hijackers keeps bubbling up but never seems to get much traction. Probably because so many media organizations now employ ex-CIA people...
+
+------------------------------------------
 ### May 7, 2023
 + Autoimmune diseases now affect about [10% of the population.](https://www.gla.ac.uk/news/headline_952084_en.html) I wonder how many of those have bacterial or viral causes.
 + This list of [AI Chrome extensions](https://mpost.io/10-best-ai-chrome-extensions-in-2023/) can help you get experience before you lose your job to ChatGPT [like this guy.](https://old.reddit.com/r/ChatGPT/comments/139o1q6/lost_all_my_content_writing_contracts_feeling/)
