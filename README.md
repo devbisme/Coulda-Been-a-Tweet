@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 9, 2023
++ This [Smithsonian story](https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/) spends more time on the photographer who's chronicling the final days of an old farm than the elderly farmers who've run it for decades. It's almost like they're an afterthought.
++ I linked to a [prompt engineering guide](https://github.com/dair-ai/Prompt-Engineering-Guide) several months ago. That's probably hopelessly out of date by now. Here's a [newer one](https://github.com/brexhq/prompt-engineering)
++ If [Pearson sues companies for using their textbooks to train AIs](https://www.standard.co.uk/business/pearson-takes-legal-action-over-use-of-its-content-to-train-ai-b1079807.html), doesn't that mean they can also sue students who learn from these books? If a company just buys a single copy of a textbook and lets the AI read it, they should be good to go, right?
+
+------------------------------------------
 ### May 8, 2023
 + I discovered this [great site for explanatory articles about machine learning](https://distill.pub/) only to find it went on hiatus in 2021 for the usual reason: it was too much work. The site editors recommend another method that requires much less work (for them): self-publishing.
 + Here's how to [give GPT and other LLMs access to more knowledge](https://sudoapps.substack.com/p/giving-gpt-infinite-knowledge). It's similar to how that guy [built a ChatGPT interface to his quantum biology PhD thesis.](https://www.christophgoetz.com/custom-chat-bot-from-thesis-to-enhance-accessibility/)
