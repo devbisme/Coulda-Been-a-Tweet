@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 10, 2023
++ More evidence for vitamin D supplementation: [reduction in all-cause mortality](https://www.mdpi.com/2072-6643/15/8/1810).
+
+------------------------------------------
 ### May 9, 2023
 + This [Smithsonian story](https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/) spends more time on the photographer who's chronicling the final days of an old farm than the elderly farmers who've run it for decades. It's almost like they're an afterthought.
 + I linked to a [prompt engineering guide](https://github.com/dair-ai/Prompt-Engineering-Guide) several months ago. That's probably hopelessly out of date by now. Here's a [newer one](https://github.com/brexhq/prompt-engineering)
