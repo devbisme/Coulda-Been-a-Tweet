@@ -6,6 +6,9 @@ All the entries are chronological with the newest at the top.
 ------------------------------------------
 ### May 10, 2023
 + More evidence for vitamin D supplementation: [reduction in all-cause mortality](https://www.mdpi.com/2072-6643/15/8/1810).
++ Keep up with [the drugs the Cool Software Developers are using](https://arxiv.org/pdf/2305.01056.pdf): Adderall for debugging and psychedelics for brainstorming.
++ Running agents using LangChain and LLMs is the new hotness, and [HuggingFace has developed a simplified API](https://huggingface.co/docs/transformers/transformers_agents) for doing this.
++ [Virtual Power Plants](https://www.energy.gov/lpo/virtual-power-plants) are decentralized sources like the batteries in EVs or solar cells on houses that can be flexibly amalgamated to supply power at utility levels. Personally, I'd like a nice nuclear power plant.
 
 ------------------------------------------
 ### May 9, 2023
