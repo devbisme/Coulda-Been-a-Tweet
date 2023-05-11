@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 11, 2023
++ An [interesting site](https://chat.lmsys.org/) where you can pick two from a set of LLMs, have a conversation with both, and then select the model you think is best. This results in a [ranking of the LLMs](https://chat.lmsys.org/?leaderboard) by user preference.
+
+------------------------------------------
 ### May 10, 2023
 + More evidence for vitamin D supplementation: [reduction in all-cause mortality](https://www.mdpi.com/2072-6643/15/8/1810).
 + Keep up with [the drugs the Cool Software Developers are using](https://arxiv.org/pdf/2305.01056.pdf): Adderall for debugging and psychedelics for brainstorming.
