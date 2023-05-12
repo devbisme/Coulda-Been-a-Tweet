@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 12, 2023
++ Microsoft is [updating the Visual Studio UI](https://devblogs.microsoft.com/visualstudio/visual-studio-ui-refresh/) to reduce "cognitive load". Basically, they're making some icons bigger and spacing things out. I really hope these changes make their way to VScode. It's so 2022!
++ Here's a timeline of [animals that have survived mass extinctions](https://www.reddit.com/r/dataisbeautiful/comments/13ewne7/animals_that_survived_mass_extinctions_oc/), some of them multiple times. (Looking at you, hardy little horseshoe crab!)
++ Researchers used undersea fiber-optic cables as hydrophones to [pinpoint the location of whales](https://newatlas.com/science/fiber-optic-cables-track-whales-reduce-ship-strikes/) to within 100m.
+
+------------------------------------------
 ### May 11, 2023
 + An [interesting site](https://chat.lmsys.org/) where you can pick two from a set of LLMs, have a conversation with both, and then select the model you think is best. This results in a [ranking of the LLMs](https://chat.lmsys.org/?leaderboard) by user preference.
 + OpenAI should know something about prompt engineering, right? So [this online course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) may be worth a look.
