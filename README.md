@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 13, 2023
++ How is a spacecraft on a 10-year voyage to Jupiter like a running toilet? Sometimes you can fix it by [jiggling the handle.](https://apnews.com/article/jupiter-juice-spacecraft-antenna-570d9f3c3fe780c05f4b096f1f6f870c)
+
+------------------------------------------
 ### May 12, 2023
 + Microsoft is [updating the Visual Studio UI](https://devblogs.microsoft.com/visualstudio/visual-studio-ui-refresh/) to reduce "cognitive load". Basically, they're making some icons bigger and spacing things out. I really hope these changes make their way to VScode. It's so 2022!
 + Here's a timeline of [animals that have survived mass extinctions](https://www.reddit.com/r/dataisbeautiful/comments/13ewne7/animals_that_survived_mass_extinctions_oc/), some of them multiple times. (Looking at you, hardy little horseshoe crab!)
