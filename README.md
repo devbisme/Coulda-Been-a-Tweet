@@ -6,6 +6,8 @@ All the entries are chronological with the newest at the top.
 ------------------------------------------
 ### May 13, 2023
 + How is a spacecraft on a 10-year voyage to Jupiter like a running toilet? Sometimes you can fix it by [jiggling the handle.](https://apnews.com/article/jupiter-juice-spacecraft-antenna-570d9f3c3fe780c05f4b096f1f6f870c)
++ Read the [planning scenarios for domestic terrorism](https://www.scribd.com/document/643766515/DHS-Domestic-Terrorism-Scenarios#) from those cute little scamps at the DHS. Then browse the site for more government documents discovered under FOIA.
++ The [Chinese response](https://www.csis.org/analysis/chinas-new-strategy-waging-microchip-tech-war) to the American semiconductor sanctions of October, 2022.
 
 ------------------------------------------
 ### May 12, 2023
