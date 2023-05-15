@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 15, 2023
++ Google uses a [3x-4x more GPUs than their in-house TPU chips.](https://www.nextplatform.com/2023/05/11/when-push-comes-to-shove-google-invests-heavily-in-gpu-compute/) Part of this is because TPUs aren't supported by Nvidia's AI Enterprise software stack and Google's cloud customers need that to do their own AI training. 
+
+------------------------------------------
 ### May 14, 2023
 + Efabless may build a chip for you [if you design it using AI.](https://efabless.com/ai-generated-design-contest) (Actually, you only need the AI to generate the Verilog for the chip.)
 
