@@ -5,7 +5,8 @@ All the entries are chronological with the newest at the top.
 
 ------------------------------------------
 ### May 15, 2023
-+ Google uses a [3x-4x more GPUs than their in-house TPU chips.](https://www.nextplatform.com/2023/05/11/when-push-comes-to-shove-google-invests-heavily-in-gpu-compute/) Part of this is because TPUs aren't supported by Nvidia's AI Enterprise software stack and Google's cloud customers need that to do their own AI training. 
++ Google uses a [3x-4x more GPUs than their in-house TPU chips.](https://www.nextplatform.com/2023/05/11/when-push-comes-to-shove-google-invests-heavily-in-gpu-compute/) Part of this is because TPUs aren't supported by Nvidia's AI Enterprise software stack and Google's cloud customers need that to do their own AI training.
++ If you're thinking of writing some non-fiction with really original ideas, here's a [list of things that aren't.](http://strangehorizons.com/submit/fiction-submission-guidelines/stories-weve-seen-too-often/)
 
 ------------------------------------------
 ### May 14, 2023
