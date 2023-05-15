@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 14, 2023
++ Efabless may build a chip for you [if you design it using AI.](https://efabless.com/ai-generated-design-contest) (Actually, you only need the AI to generate the Verilog for the chip.)
+
+------------------------------------------
 ### May 13, 2023
 + How is a spacecraft on a 10-year voyage to Jupiter like a running toilet? Sometimes you can fix it by [jiggling the handle.](https://apnews.com/article/jupiter-juice-spacecraft-antenna-570d9f3c3fe780c05f4b096f1f6f870c)
 + Read the [planning scenarios for domestic terrorism](https://www.scribd.com/document/643766515/DHS-Domestic-Terrorism-Scenarios#) from those cute little scamps at the DHS. Then browse the site for more government documents discovered under FOIA.
