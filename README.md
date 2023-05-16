@@ -6,6 +6,7 @@ All the entries are chronological with the newest at the top.
 ------------------------------------------
 ### May 16, 2023
 + Ah, one of my favorite movies from my youth: [Colossus: The Forbin Project](https://archive.org/details/colossus-the-forbin-project-1970). You can read the [entire trilogy](https://www.amazon.com/s?k=colossus+book+trilogy&sprefix=colossus+book%2Caps%2C109&ref=nb_sb_ss_ts-doa-p_2_13) so you can see what happens after the AI takes over.
++ A [thread](https://news.ycombinator.com/item?id=35959204) about building websites in 2023. ChatGPT is mentioned six times as a tool for assisting with this.
 
 ------------------------------------------
 ### May 15, 2023
