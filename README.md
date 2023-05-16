@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 16, 2023
++ Ah, one of my favorite movies from my youth: [Colossus: The Forbin Project](https://archive.org/details/colossus-the-forbin-project-1970). You can read the [entire trilogy](https://www.amazon.com/s?k=colossus+book+trilogy&sprefix=colossus+book%2Caps%2C109&ref=nb_sb_ss_ts-doa-p_2_13) so you can see what happens after the AI takes over.
+
+------------------------------------------
 ### May 15, 2023
 + Google uses a [3x-4x more GPUs than their in-house TPU chips.](https://www.nextplatform.com/2023/05/11/when-push-comes-to-shove-google-invests-heavily-in-gpu-compute/) Part of this is because TPUs aren't supported by Nvidia's AI Enterprise software stack and Google's cloud customers need that to do their own AI training.
 + If you're thinking of writing some non-fiction with really original ideas, here's a [list of things that aren't.](http://strangehorizons.com/submit/fiction-submission-guidelines/stories-weve-seen-too-often/)
