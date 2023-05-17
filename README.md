@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 17, 2023
++ [Long article](https://www.theguardian.com/business/2017/may/02/where-oil-rigs-go-to-die) about ship-breaking oil rigs.
+
+------------------------------------------
 ### May 16, 2023
 + Ah, one of my favorite movies from my youth: [Colossus: The Forbin Project](https://archive.org/details/colossus-the-forbin-project-1970). You can read the [entire trilogy](https://www.amazon.com/s?k=colossus+book+trilogy&sprefix=colossus+book%2Caps%2C109&ref=nb_sb_ss_ts-doa-p_2_13) so you can see what happens after the AI takes over.
 + While searching for the *Colossus* novels, I came across [this book about the construction of the Hoover Dam](https://www.amazon.com/Colossus-Turbulent-Thrilling-Building-Hoover/dp/141653217X/ref=sr_1_2?crid=29TTYSULSFG2F&keywords=colossus+hoover+dam&qid=1684235858&sprefix=colossus+hoover+dam%2Caps%2C100&sr=8-2). Looks good!
