@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 18, 2023
++ Here are [some numbers you should know](https://github.com/ray-project/llm-numbers) to get ballpark estimates of required resources and costs when using LLMs. (And [here](http://brenocon.com/dean_perf.html) are some earlier numbers you should know about memory access times.)
+
+------------------------------------------
 ### May 17, 2023
 + [Long article](https://www.theguardian.com/business/2017/may/02/where-oil-rigs-go-to-die) about ship-breaking oil rigs.
 
