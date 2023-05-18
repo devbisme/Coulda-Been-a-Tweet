@@ -7,6 +7,7 @@ All the entries are chronological with the newest at the top.
 ### May 18, 2023
 + Here are [some numbers you should know](https://github.com/ray-project/llm-numbers) to get ballpark estimates of required resources and costs when using LLMs. (And [here](http://brenocon.com/dean_perf.html) are some earlier numbers you should know about memory access times.)
 + More demographics: The [US birth rate has fallen 20%](https://econofact.org/the-mystery-of-the-declining-u-s-birth-rate) since 2007 and shows no reversal of the trend.
++ [BT is planning to axe 55,000](https://www.bbc.com/news/business-65631168) of its 130,000 employees by 2030. About 10,000 in customer service will be replaced by AI, but the rest are a result of completing the switch to fiber networks and the lowering of maintenance needs.
 
 ------------------------------------------
 ### May 17, 2023
