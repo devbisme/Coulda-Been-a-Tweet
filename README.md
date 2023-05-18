@@ -6,6 +6,7 @@ All the entries are chronological with the newest at the top.
 ------------------------------------------
 ### May 18, 2023
 + Here are [some numbers you should know](https://github.com/ray-project/llm-numbers) to get ballpark estimates of required resources and costs when using LLMs. (And [here](http://brenocon.com/dean_perf.html) are some earlier numbers you should know about memory access times.)
++ More demographics: The [US birth rate has fallen 20%](https://econofact.org/the-mystery-of-the-declining-u-s-birth-rate) since 2007 and shows no reversal of the trend.
 
 ------------------------------------------
 ### May 17, 2023
