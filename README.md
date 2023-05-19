@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 19, 2023
++ Here's a [handbook on using LangChain](https://www.pinecone.io/learn/langchain/).
+
+------------------------------------------
 ### May 18, 2023
 + Here are [some numbers you should know](https://github.com/ray-project/llm-numbers) to get ballpark estimates of required resources and costs when using LLMs. (And [here](http://brenocon.com/dean_perf.html) are some earlier numbers you should know about memory access times.)
 + More demographics: The [US birth rate has fallen 20%](https://econofact.org/the-mystery-of-the-declining-u-s-birth-rate) since 2007 and shows no reversal of the trend.
@@ -21,7 +25,7 @@ All the entries are chronological with the newest at the top.
 
 ------------------------------------------
 ### May 15, 2023
-+ Google uses a [3x-4x more GPUs than their in-house TPU chips.](https://www.nextplatform.com/2023/05/11/when-push-comes-to-shove-google-invests-heavily-in-gpu-compute/) Part of this is because TPUs aren't supported by Nvidia's AI Enterprise software stack and Google's cloud customers need that to do their own AI training.
++ Google uses [3x-4x more GPUs than their in-house TPU chips.](https://www.nextplatform.com/2023/05/11/when-push-comes-to-shove-google-invests-heavily-in-gpu-compute/) Part of this is because TPUs aren't supported by Nvidia's AI Enterprise software stack and Google's cloud customers need that to do their own AI training.
 + If you're thinking of writing some non-fiction with really original ideas, here's a [list of things that aren't.](http://strangehorizons.com/submit/fiction-submission-guidelines/stories-weve-seen-too-often/)
 
 ------------------------------------------
