@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 20, 2023
++ Populations are declining! Could 50% lower sperm counts be the reason? Read [this article](https://www.euronews.com/next/2023/05/20/sperm-counts-are-declining-scientists-believe-they-have-pinpointed-the-main-causes-why) for some banal advice that could help you save mankind from extermination.
++ OK, so the [Nazis didn't have a base in Antarctica](https://www.histarmar.com.ar/Antartida/Base-Hitler/LaBaseAntarticadeHitler.pdf), but they could still be on the Moon, right?
++ Has [AI killed the semantic web](https://shkspr.mobi/blog/2023/05/does-ai-mean-we-dont-need-the-semantic-web/) before we could even build it?
+
+------------------------------------------
 ### May 19, 2023
 + Here's a [handbook on using LangChain](https://www.pinecone.io/learn/langchain/).
 
