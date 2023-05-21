@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 21, 2023
++ The [Decouple podcast]() has some episodes they label as "master classes" in which they go in-depth about specific types of energy sources: [coal](https://podtail.com/en/podcast/decouple/this-land-is-mined-the-coal-masterclass/), [gas](https://podtail.com/en/podcast/decouple/a-natural-gas-masterclass-feat-mark-nelson/), and [uranium](https://podtail.com/en/podcast/decouple/the-uranium-masterclass/) (so far). 
+
+------------------------------------------
 ### May 20, 2023
 + Populations are declining! Could 50% lower sperm counts be the reason? Read [this article](https://www.euronews.com/next/2023/05/20/sperm-counts-are-declining-scientists-believe-they-have-pinpointed-the-main-causes-why) for some banal advice that could help you save mankind from extermination.
 + OK, so the [Nazis didn't have a base in Antarctica](https://www.histarmar.com.ar/Antartida/Base-Hitler/LaBaseAntarticadeHitler.pdf), but they could still be on the Moon, right?
