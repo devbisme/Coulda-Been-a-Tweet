@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 22, 2023
++ The "A Very Short Introduction" series of books is featured in this long article called ["How to be a Know-It-All"](https://www.newyorker.com/magazine/2017/10/16/how-to-be-a-know-it-all) but, really, please don't.
+
+------------------------------------------
 ### May 21, 2023
 + The [Decouple podcast]() has some episodes they label as "master classes" in which they go in-depth about specific types of energy sources: [coal](https://podtail.com/en/podcast/decouple/this-land-is-mined-the-coal-masterclass/), [gas](https://podtail.com/en/podcast/decouple/a-natural-gas-masterclass-feat-mark-nelson/), and [uranium](https://podtail.com/en/podcast/decouple/the-uranium-masterclass/) (so far). 
 
