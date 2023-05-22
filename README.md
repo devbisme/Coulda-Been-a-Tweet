@@ -6,6 +6,7 @@ All the entries are chronological with the newest at the top.
 ------------------------------------------
 ### May 22, 2023
 + The "A Very Short Introduction" series of books is featured in this long article called ["How to be a Know-It-All"](https://www.newyorker.com/magazine/2017/10/16/how-to-be-a-know-it-all) but, really, please don't.
++ Another entry in the list of "Why we can't have nice things": New submissions to PyPi were [temporarily suspended](https://status.python.org/incidents/qy2t9mjjcc7g) because of malicious users.
 
 ------------------------------------------
 ### May 21, 2023
