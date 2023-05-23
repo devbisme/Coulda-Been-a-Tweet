@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 23, 2023
++ [Good explanation of AI risks](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/), but the last section states autonomy and agency should be avoided. Yes, but define that. Even coding helpers might be disallowed since the AI could inject jail-break instructions via humans. But government and corporations would skirt those rules.
+
+------------------------------------------
 ### May 22, 2023
 + The "A Very Short Introduction" series of books is featured in this long article called ["How to be a Know-It-All"](https://www.newyorker.com/magazine/2017/10/16/how-to-be-a-know-it-all) but, really, please don't.
 + Another entry in the list of "Why we can't have nice things": New submissions to PyPi were [temporarily suspended](https://status.python.org/incidents/qy2t9mjjcc7g) because of malicious users.
