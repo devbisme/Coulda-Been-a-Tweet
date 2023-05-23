@@ -6,6 +6,8 @@ All the entries are chronological with the newest at the top.
 ------------------------------------------
 ### May 23, 2023
 + [Good explanation of AI risks](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/), but the last section states autonomy and agency should be avoided. Yes, but define that. Even coding helpers might be disallowed since the AI could inject jail-break instructions via humans. But government and corporations would skirt those rules.
++ I wrote a small [timer program](https://gist.github.com/devbisme/82c5c444210183a5d504b5f0ed6d8f53) using ChatGPT.
++ [It pays to be good-looking](https://www.forbes.com/sites/hanktucker/2023/05/22/pick-your-poison-how-this-fearless-fund-beats-the-market/?sh=6d7930217386). Literally.
 
 ------------------------------------------
 ### May 22, 2023
