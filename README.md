@@ -6,7 +6,7 @@ All the entries are chronological with the newest at the top.
 ------------------------------------------
 ### May 25, 2023
 + An [account of the early history of electrification](https://www.construction-physics.com/p/the-birth-of-the-grid?publication_id=104058&post_id=123557982&isFreemail=true) and the growth of the grid, primarily in the US.
-+ Something I just noticed: right-click on a web page in the Brave browser and you get an option to create a QR code for that page.
++ Something I just noticed: right-click on a web page in the Brave browser and you get an option to create a QR code for that page. I use this to print and attach instruction manual QR codes to dev boards I've purchased.
 
 ------------------------------------------
 ### May 24, 2023
