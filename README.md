@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 26, 2023
++ [How does our brain tell the difference between reality and imagination?](https://www.quantamagazine.org/is-it-real-or-imagined-how-your-brain-tells-the-difference-20230524/?mc_cid=3cd0bc3ba3)
++ The [Alexandria Project](https://twitter.com/willdepue/status/1661784552359223296) aims to create embeddings of all 4M papers on Arxiv to make it easy to do semantic searches (versus by keyword).
++ I always like a [good article on SAT](https://cacm.acm.org/magazines/2023/6/273222-the-silent-revolution-of-sat/fulltext).
+
+------------------------------------------
 ### May 25, 2023
 + An [account of the early history of electrification](https://www.construction-physics.com/p/the-birth-of-the-grid?publication_id=104058&post_id=123557982&isFreemail=true) and the growth of the grid, primarily in the US.
 + Something I just noticed: right-click on a web page in the Brave browser and you get an option to create a QR code for that page. I use this to print and attach instruction manual QR codes to dev boards I've purchased.
