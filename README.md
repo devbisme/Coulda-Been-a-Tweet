@@ -7,7 +7,7 @@ All the entries are chronological with the newest at the top.
 ### May 26, 2023
 + [How does our brain tell the difference between reality and imagination?](https://www.quantamagazine.org/is-it-real-or-imagined-how-your-brain-tells-the-difference-20230524/?mc_cid=3cd0bc3ba3)
 + The [Alexandria Project](https://twitter.com/willdepue/status/1661784552359223296) aims to create embeddings of all 4M papers on Arxiv to make it easy to do semantic searches (versus by keyword).
-+ I always like a [good article on SAT](https://cacm.acm.org/magazines/2023/6/273222-the-silent-revolution-of-sat/fulltext).
++ I always like a [good article on SAT](https://cacm.acm.org/magazines/2023/6/273222-the-silent-revolution-of-sat/fulltext). Oh, and [this one](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/), too!
 
 ------------------------------------------
 ### May 25, 2023
