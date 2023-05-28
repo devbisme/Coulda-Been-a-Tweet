@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 28, 2023
++ [Chips and Cheese](https://chipsandcheese.com/) is another good site if you want detailed expositions on past and present ICs.
+
+------------------------------------------
 ### May 27, 2023
 + Experiences or possessions? [Maybe it's all bullshit.](https://every.to/p/buying-experiences-doesn-t-make-you-happier-than-possessions)
 
