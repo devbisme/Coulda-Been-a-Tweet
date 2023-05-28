@@ -6,6 +6,7 @@ All the entries are chronological with the newest at the top.
 ------------------------------------------
 ### May 28, 2023
 + [Chips and Cheese](https://chipsandcheese.com/) is another good site if you want detailed expositions on past and present ICs.
++ A current theme in LLMs is [trying to get around the token limit.](https://knowsuchagency.notion.site/Hacking-around-ChatGPT-s-Character-Limits-with-the-Code-Interpreter-d31dcba26e5a432a839bf94c69c7c39f)
 
 ------------------------------------------
 ### May 27, 2023
