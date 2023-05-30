@@ -4,6 +4,11 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 29, 2023
++ [More benefits from vitamin D.](https://neurosciencenews.com/vitamin-d-dopamine-23356/)
++ [Tesla is innovating in car assembly](https://www.assemblymag.com/articles/97788-tesla-rethinks-the-assembly-line) as they move toward their goal of producing 20M cars per year, but there are [obstacles that may prevent the manufacture of more than 10M per year](https://english.elpais.com/economy-and-business/2023-05-29/the-four-main-obstacles-facing-electric-cars.html) across all manufacturers.
+
+------------------------------------------
 ### May 28, 2023
 + [Chips and Cheese](https://chipsandcheese.com/) is another good site if you want detailed expositions on past and present ICs.
 + A current theme in LLMs is [trying to get around the token limit](https://knowsuchagency.notion.site/Hacking-around-ChatGPT-s-Character-Limits-with-the-Code-Interpreter-d31dcba26e5a432a839bf94c69c7c39f) and [enlarging the context.](https://arxiv.org/abs/2305.16300)
