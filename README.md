@@ -7,6 +7,7 @@ All the entries are chronological with the newest at the top.
 ### May 30, 2023
 + [`boltons`](https://boltons.readthedocs.io/en/latest/index.html) is a package of utilities that augment the functions found in the Python Standard Library.
 + Interested in factories in space? Cuz here's a site about [factories in space.](https://www.factoriesinspace.com/)
++ [Interesting thread](https://twitter.com/CyberPunkCortes/status/1662105701982896128) on scavenging the world in search of low-background metals made before the first atomic explosions.
 
 ------------------------------------------
 ### May 29, 2023
