@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 30, 2023
++ [`boltons`](https://boltons.readthedocs.io/en/latest/index.html) is a package of utilities that augment the functions found in the Python Standard Library.
+
+------------------------------------------
 ### May 29, 2023
 + [More benefits from vitamin D.](https://neurosciencenews.com/vitamin-d-dopamine-23356/)
 + [Tesla is innovating in car assembly](https://www.assemblymag.com/articles/97788-tesla-rethinks-the-assembly-line) as they move toward their goal of producing 20M cars per year, but there are [obstacles that may prevent the manufacture of more than 10M per year](https://english.elpais.com/economy-and-business/2023-05-29/the-four-main-obstacles-facing-electric-cars.html) across all manufacturers.
