@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### May 31, 2023
++ This is a really neat idea for a [low-cost blood pressure monitor.](https://today.ucsd.edu/story/super-low-cost-smartphone-attachment-brings-blood-pressure-monitoring-to-your-fingertips)
+
+------------------------------------------
 ### May 30, 2023
 + [`boltons`](https://boltons.readthedocs.io/en/latest/index.html) is a package of utilities that augment the functions found in the Python Standard Library.
 + Like factories in space? Cuz here's a site about [factories in space.](https://www.factoriesinspace.com/)
