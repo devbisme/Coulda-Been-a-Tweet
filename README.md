@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 1, 2023
++ [A Hacker News-like site for hardware.](https://hardwary.com/)
+
+------------------------------------------
 ### May 31, 2023
 + This is a really neat idea for a [low-cost blood pressure monitor.](https://today.ucsd.edu/story/super-low-cost-smartphone-attachment-brings-blood-pressure-monitoring-to-your-fingertips)
 
