@@ -4,8 +4,9 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
-### June 1, 2023
+### June 2, 2023
 + [Raspberry Pis should be easier to get, soon.](https://www.tomshardware.com/news/raspberry-pi-ceo-million-unit-months-are-ahead) (Trigger alert: the story contains the unfortunate phrase "unless you have been living under a rock...")
++ The UAE's Technology Innovation Institute has [open-sourced the Falcon 40B LLM](https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free) under an Apache 2.0 license. Falcon sits at the top of some LLM performance leaderboards. This further dims the hopes of the AI safetiests to limit the spread of the technology.
 
 ------------------------------------------
 ### June 1, 2023
