@@ -5,6 +5,10 @@ All the entries are chronological with the newest at the top.
 
 ------------------------------------------
 ### June 1, 2023
++ [Raspberry Pis should be easier to get, soon.](https://www.tomshardware.com/news/raspberry-pi-ceo-million-unit-months-are-ahead) (Trigger alert: the story contains the unfortunate phrase "unless you have been living under a rock...")
+
+------------------------------------------
+### June 1, 2023
 + [A Hacker News-like site for hardware.](https://hardwary.com/)
 
 ------------------------------------------
