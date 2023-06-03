@@ -6,6 +6,7 @@ All the entries are chronological with the newest at the top.
 ------------------------------------------
 ### June 3 2023
 + The article title - [**Intelligent brains take longer to solve difficult problems**](https://www.bihealth.org/en/notices/intelligent-brains-take-longer-to-solve-difficult-problems) - omits the additional finding that they also make fewer mistakes. Seems important, but I guess nobody would read the article with the accurate headline.
++ [Somebody](https://www.reddit.com/r/dataisbeautiful/comments/13ygxov/oc_i_measured_the_specs_of_every_new_hampshire/) is measuring and cataloging all the high school baseball fields in the US. 
 
 ------------------------------------------
 ### June 2, 2023
