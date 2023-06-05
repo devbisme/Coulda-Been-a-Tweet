@@ -6,6 +6,7 @@ All the entries are chronological with the newest at the top.
 ------------------------------------------
 ### June 5 2023
 + I enjoyed this video on how to [create generative art with vanilla Javascript.](https://www.youtube.com/watch?v=0v4_Dw0K8pw)
++ [Defense firms fund think tanks](https://responsiblestatecraft.org/2023/06/01/how-weapons-firms-influence-the-ukraine-debate/) who then take to the media outlets and beat the drum for sending more arms to Ukraine. As Kurt Vonnegut would say: "And so it goes..."
 
 ------------------------------------------
 ### June 4 2023
