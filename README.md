@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 5 2023
++ I enjoyed this video on how to [create generative art with vanilla Javascript.](https://www.youtube.com/watch?v=0v4_Dw0K8pw)
+
+------------------------------------------
 ### June 4 2023
 + [Next installment](https://www.construction-physics.com/p/the-grid-part-ii-the-golden-age-of) about the history and development of the US power grid.
 
