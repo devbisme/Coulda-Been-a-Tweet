@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 6 2023
++ Like the guy who's collecting the measurements of every high school ballpark, here's another that's scanning the entire collection of [*Computer Shopper*](http://ascii.textfiles.com/archives/5543) magazines. I hope there's some unexpected benefit to a future researcher in computer history that will justify all the time put into this.
+
+------------------------------------------
 ### June 5 2023
 + I enjoyed this video on how to [create generative art with vanilla Javascript.](https://www.youtube.com/watch?v=0v4_Dw0K8pw)
 + [Defense firms fund think tanks](https://responsiblestatecraft.org/2023/06/01/how-weapons-firms-influence-the-ukraine-debate/) who then take to the media outlets and beat the drum for sending more arms to Ukraine. As Kurt Vonnegut would say: "And so it goes..."
