@@ -6,6 +6,7 @@ All the entries are chronological with the newest at the top.
 ------------------------------------------
 ### June 6 2023
 + Like the guy who's collecting the measurements of every high school ballpark, here's another that's scanning the entire collection of [*Computer Shopper*](http://ascii.textfiles.com/archives/5543) magazines. I hope there's some unexpected benefit to a future researcher in computer history that will justify all the time put into this.
++ With LLM-based programming assistants, we've gone from writing code to [casting spells](https://www.freshpaint.io/blog/github-copilot-and-the-methods-of-rationality) where the particular words used in a prompt can generate unexpected results. I'm not sure this is an improvement...
 
 ------------------------------------------
 ### June 5 2023
