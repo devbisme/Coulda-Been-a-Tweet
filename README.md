@@ -6,6 +6,7 @@ All the entries are chronological with the newest at the top.
 ------------------------------------------
 ### June 7 2023
 + The UK's Royal Navy says it has successfully tested ["quantum navigation"](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/) that can give a precise location without relying on an external system like GPS that can be jammed. No details in the article about how this works, but it uses "quantum" so it must be legit...
++ [D2](https://d2lang.com/) is a text-based diagramming tool similar to PlantUML.
 
 ------------------------------------------
 ### June 6 2023
