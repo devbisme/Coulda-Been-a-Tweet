@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 7 2023
++ The UK's Royal Navy says it has successfully tested ["quantum navigation"](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/) that can give a precise location without relying on an external system like GPS that can be jammed. No details in the article about how this works, but it uses "quantum" so it must be legit...
+
+------------------------------------------
 ### June 6 2023
 + Like the guy who's collecting the measurements of every high school ballpark, here's another that's scanning the entire collection of [*Computer Shopper*](http://ascii.textfiles.com/archives/5543) magazines. I hope there's some unexpected benefit to a future researcher in computer history that will justify all the time put into this.
 + With LLM-based programming assistants, we've gone from writing code to [casting spells](https://www.freshpaint.io/blog/github-copilot-and-the-methods-of-rationality) where the particular words used in a prompt can generate unexpected results. I'm not sure this is an improvement...
