@@ -6,6 +6,8 @@ All the entries are chronological with the newest at the top.
 ------------------------------------------
 ### June 8 2023
 + As multiple countries eye its resources, the [US is ramping up its military in the Arctic.](https://www.bloomberg.com/graphics/2023-opinion-arctic-geopolitics-resources/army-training.html)
++ [Molten salt nuclear reactors](https://hackaday.com/2023/06/07/the-integral-molten-salt-reactor-and-the-benefits-of-having-a-liquid-fission-reactor/): Don't be scared! It's just really hot, radioactive slag.
++ TV went streaming, and now [that doesn't seem to be working.](https://www.vulture.com/2023/06/streaming-industry-netflix-max-disney-hulu-apple-tv-prime-video-peacock-paramount.html)
 
 ------------------------------------------
 ### June 7 2023
