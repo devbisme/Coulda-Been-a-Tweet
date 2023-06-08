@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 8 2023
++ As multiple countries eye its resources, the [US is ramping up its military in the Arctic.](https://www.bloomberg.com/graphics/2023-opinion-arctic-geopolitics-resources/army-training.html)
+
+------------------------------------------
 ### June 7 2023
 + The UK's Royal Navy says it has successfully tested ["quantum navigation"](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/) that can give a precise location without relying on an external system like GPS that can be jammed. No details in the article about how this works, but it uses "quantum" so it must be legit...
 + [D2](https://d2lang.com/) is a text-based diagramming tool similar to PlantUML.
