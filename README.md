@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 9 2023
++ I don't have any opinions about John Carmack one way or the other, but it's kinda sad that he would be [disparaged just for going to a scifi convention.](https://www.pcgamer.com/doom-co-creator-john-carmack-is-headlining-a-toxic-and-proud-sci-fi-convention-that-rails-against-woke-propaganda/)
+
+------------------------------------------
 ### June 8 2023
 + As multiple countries eye its resources, the [US is ramping up its military in the Arctic.](https://www.bloomberg.com/graphics/2023-opinion-arctic-geopolitics-resources/army-training.html)
 + [Molten salt nuclear reactors](https://hackaday.com/2023/06/07/the-integral-molten-salt-reactor-and-the-benefits-of-having-a-liquid-fission-reactor/): Don't be scared! It's just really hot, radioactive slag.
