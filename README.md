@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 10 2023
++ The people who really matter are [rejecting the idea of an AI pause.](https://newsnotfound.com/palantir-ceo-rejects-calls-to-pause-ai-development-amid-global-debate/)
+
+------------------------------------------
 ### June 9 2023
 + I don't have any opinions about John Carmack one way or the other, but it's kinda sad that he would be [disparaged just for going to a scifi convention.](https://www.pcgamer.com/doom-co-creator-john-carmack-is-headlining-a-toxic-and-proud-sci-fi-convention-that-rails-against-woke-propaganda/)
 + The creator of *Black Mirror* [tried to get ChatGPT to write an episode](https://gizmodo.com/black-mirror-season-6-chatgpt-writers-strike-ai-1850513967), but he said the result was "shit." Not surprising since his prompt was basically "Write a *Black Mirror* episode." C'mon! You gotta work a little harder than that...
