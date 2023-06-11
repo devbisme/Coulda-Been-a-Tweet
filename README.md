@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 11 2023
++ If you're bored, you can read about [the possible assassination of Oppenheimer's mistress](https://blog.nuclearsecrecy.com/2015/12/11/the-curious-death-of-oppenheimers-mistress/) or [Japanese convenience stores.](https://one-from-nippon.ghost.io/combini-part-1/)
+
+------------------------------------------
 ### June 10 2023
 + The people who really matter are [rejecting the idea of an AI pause.](https://newsnotfound.com/palantir-ceo-rejects-calls-to-pause-ai-development-amid-global-debate/)
 
