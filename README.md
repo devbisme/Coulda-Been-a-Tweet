@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 12 2023
++ Coal was extracted from undersea mines on [Hashima island](https://www.wikiwand.com/en/Hashima_Island) starting in 1887. The island was abandoned in 1974 as Japan switched from coal to oil. Here's some [video](https://www.youtube.com/watch?v=sdjwRaLJTps) of the deserted buildings.
+
+------------------------------------------
 ### June 11 2023
 + If you're bored, you can read about [the possible assassination of Oppenheimer's mistress](https://blog.nuclearsecrecy.com/2015/12/11/the-curious-death-of-oppenheimers-mistress/) or [Japanese convenience stores.](https://one-from-nippon.ghost.io/combini-part-1/)
 
