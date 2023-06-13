@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 13 2023
++ This is probably good advice: if you want to succeed at something, [do ten times as much.](https://betonit.substack.com/p/do-ten-times-as-much?publication_id=820634&post_id=51389455&isFreemail=true) This level of effort requires you to conciously choose where to direct your finite energy and drop what you don't care about enough to put in the effort.
+
+------------------------------------------
 ### June 12 2023
 + Coal was extracted from undersea mines on [Hashima island](https://www.wikiwand.com/en/Hashima_Island) starting in 1887. The island was abandoned in 1974 as Japan switched from coal to oil. Here's some [video](https://www.youtube.com/watch?v=sdjwRaLJTps) of the deserted buildings.
 
