@@ -4,6 +4,12 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 15 2023
++ [Viable human embryos from just embryonic stem cells!](https://www.dailymail.co.uk/health/article-12195963/Synthetic-human-embryos-scientific-breakthrough.html) Our problems with declining populations are solved...
++ ["Mini-brains"](https://singularityhub.com/2023/06/14/mini-human-brains-implanted-in-mice-pumped-out-anti-stress-hormones/?_hsmi=262525817) made from (you guessed it) stem cells were able to function like the pituitary gland when implanted (you'll never guess) near the kidneys in a mouse.
++ The site [llm-utils](https://llm-utils.org/Home) contains an interesting hodge-podge of stuff like a list of [places to rent GPU compute.](https://llm-utils.org/List+of+non-serverless+GPU+providers) Unfortunately, some of the pages are *just lists* with no associated link.
+
+------------------------------------------
 ### June 13 2023
 + This is probably good advice: if you want to succeed at something, [do ten times as much.](https://betonit.substack.com/p/do-ten-times-as-much?publication_id=820634&post_id=51389455&isFreemail=true) This level of effort requires you to conciously choose where to direct your finite energy and drop what you don't care about enough to put in the effort.
 
