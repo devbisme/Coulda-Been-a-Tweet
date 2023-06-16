@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 16 2023
++ An interesting blog post exposes some of [how text tokenizers work.](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
+
+------------------------------------------
 ### June 15 2023
 + [Viable human embryos from just embryonic stem cells!](https://www.dailymail.co.uk/health/article-12195963/Synthetic-human-embryos-scientific-breakthrough.html) Our problems with declining populations are solved...
 + ["Mini-brains"](https://singularityhub.com/2023/06/14/mini-human-brains-implanted-in-mice-pumped-out-anti-stress-hormones/?_hsmi=262525817) made from (you guessed it) stem cells were able to function like the pituitary gland when implanted (you'll never guess) near the kidneys in a mouse.
