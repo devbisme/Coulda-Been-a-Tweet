@@ -4,64 +4,68 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
-### June 16 2023
+### June 17, 2023
++ [Free font](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface) based on the London subway dot-matrix displays. 
+
+------------------------------------------
+### June 16, 2023
 + An interesting blog post exposes some of [how text tokenizers work.](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
 
 ------------------------------------------
-### June 15 2023
+### June 15, 2023
 + [Viable human embryos from just embryonic stem cells!](https://www.dailymail.co.uk/health/article-12195963/Synthetic-human-embryos-scientific-breakthrough.html) Our problems with declining populations are solved...
 + ["Mini-brains"](https://singularityhub.com/2023/06/14/mini-human-brains-implanted-in-mice-pumped-out-anti-stress-hormones/?_hsmi=262525817) made from (you guessed it) stem cells were able to function like the pituitary gland when implanted (you'll never guess) near the kidneys in a mouse.
 + The site [llm-utils](https://llm-utils.org/Home) contains an interesting hodge-podge of stuff like a list of [places to rent GPU compute.](https://llm-utils.org/List+of+non-serverless+GPU+providers) Unfortunately, some of the pages are *just lists* with no associated link.
 
 ------------------------------------------
-### June 13 2023
+### June 13, 2023
 + This is probably good advice: if you want to succeed at something, [do ten times as much.](https://betonit.substack.com/p/do-ten-times-as-much?publication_id=820634&post_id=51389455&isFreemail=true) This level of effort requires you to conciously choose where to direct your finite energy and drop what you don't care about enough to put in the effort.
 
 ------------------------------------------
-### June 12 2023
+### June 12, 2023
 + Coal was extracted from undersea mines on [Hashima island](https://www.wikiwand.com/en/Hashima_Island) starting in 1887. The island was abandoned in 1974 as Japan switched from coal to oil. Here's some [video](https://www.youtube.com/watch?v=sdjwRaLJTps) of the deserted buildings.
 
 ------------------------------------------
-### June 11 2023
+### June 11, 2023
 + If you're bored, you can read about [the possible assassination of Oppenheimer's mistress](https://blog.nuclearsecrecy.com/2015/12/11/the-curious-death-of-oppenheimers-mistress/) or [Japanese convenience stores.](https://one-from-nippon.ghost.io/combini-part-1/)
 
 ------------------------------------------
-### June 10 2023
+### June 10, 2023
 + The people who really matter are [rejecting the idea of an AI pause.](https://newsnotfound.com/palantir-ceo-rejects-calls-to-pause-ai-development-amid-global-debate/)
 
 ------------------------------------------
-### June 9 2023
+### June 9, 2023
 + I don't have any opinions about John Carmack one way or the other, but it's kinda sad that he would be [disparaged just for going to a scifi convention.](https://www.pcgamer.com/doom-co-creator-john-carmack-is-headlining-a-toxic-and-proud-sci-fi-convention-that-rails-against-woke-propaganda/)
 + The creator of *Black Mirror* [tried to get ChatGPT to write an episode](https://gizmodo.com/black-mirror-season-6-chatgpt-writers-strike-ai-1850513967), but he said the result was "shit." Not surprising since his prompt was basically "Write a *Black Mirror* episode." C'mon! You gotta work a little harder than that...
 
 ------------------------------------------
-### June 8 2023
+### June 8, 2023
 + As multiple countries eye its resources, the [US is ramping up its military in the Arctic.](https://www.bloomberg.com/graphics/2023-opinion-arctic-geopolitics-resources/army-training.html)
 + [Molten salt nuclear reactors](https://hackaday.com/2023/06/07/the-integral-molten-salt-reactor-and-the-benefits-of-having-a-liquid-fission-reactor/): Don't be scared! It's just really hot, radioactive slag.
 + TV went streaming, and now [that doesn't seem to be working.](https://www.vulture.com/2023/06/streaming-industry-netflix-max-disney-hulu-apple-tv-prime-video-peacock-paramount.html)
 
 ------------------------------------------
-### June 7 2023
+### June 7, 2023
 + The UK's Royal Navy says it has successfully tested ["quantum navigation"](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/) that can give a precise location without relying on an external system like GPS that can be jammed. No details in the article about how this works, but it uses "quantum" so it must be legit...
 + [D2](https://d2lang.com/) is a text-based diagramming tool similar to PlantUML.
 
 ------------------------------------------
-### June 6 2023
+### June 6, 2023
 + Like the guy who's collecting the measurements of every high school ballpark, here's another that's scanning the entire collection of [*Computer Shopper*](http://ascii.textfiles.com/archives/5543) magazines. I hope there's some unexpected benefit to a future researcher in computer history that will justify all the time put into this.
 + With LLM-based programming assistants, we've gone from writing code to [casting spells](https://www.freshpaint.io/blog/github-copilot-and-the-methods-of-rationality) where the particular words used in a prompt can generate unexpected results. I'm not sure this is an improvement...
 
 ------------------------------------------
-### June 5 2023
+### June 5, 2023
 + I enjoyed this video on how to [create generative art with vanilla Javascript.](https://www.youtube.com/watch?v=0v4_Dw0K8pw)
 + [Defense firms fund think tanks](https://responsiblestatecraft.org/2023/06/01/how-weapons-firms-influence-the-ukraine-debate/) who then take to the media outlets and beat the drum for sending more arms to Ukraine. As Kurt Vonnegut would say: "And so it goes..."
 + The Falcon LLM I mentioned a few days ago [has made its way to Hugging Face.](https://huggingface.co/blog/falcon)
 
 ------------------------------------------
-### June 4 2023
+### June 4, 2023
 + [Next installment](https://www.construction-physics.com/p/the-grid-part-ii-the-golden-age-of) about the history and development of the US power grid.
 
 ------------------------------------------
-### June 3 2023
+### June 3, 2023
 + The article title - [**Intelligent brains take longer to solve difficult problems**](https://www.bihealth.org/en/notices/intelligent-brains-take-longer-to-solve-difficult-problems) - omits the additional finding that they also make fewer mistakes. Seems important, but I guess nobody would read the article with the accurate headline.
 + [Somebody](https://www.reddit.com/r/dataisbeautiful/comments/13ygxov/oc_i_measured_the_specs_of_every_new_hampshire/) is measuring and cataloging all the high school baseball fields in the US. 
 
