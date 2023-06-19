@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 19, 2023
++ [This](https://enccs.github.io/gpu-programming/) looks like a decent, modern introduction on using GPUs.
+
+------------------------------------------
 ### June 18, 2023
 + [Milk-V](https://milkv.io/duo): a 1GHz dual-core RISC-V on a small form-factor board that can run Linux for $9.
 
