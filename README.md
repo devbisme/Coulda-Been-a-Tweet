@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 20, 2023
++ OpenAI wants AI regulations, [except when they don't.](https://tech.slashdot.org/story/23/06/20/0632228/openai-lobbied-the-eu-to-water-down-ai-regulation)
+
+------------------------------------------
 ### June 19, 2023
 + [This](https://enccs.github.io/gpu-programming/) looks like a decent, modern introduction on using GPUs.
 
