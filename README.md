@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 21, 2023
++ A small LLM with just 1.3B parameters provides [surprisingly good performance](https://arxiv.org/abs/2306.11644) after being trained on only 7B tokens of "textbook-quality" data. And a stripped-down 350M-parameter version only loses 10% of its accuracy.
+
+------------------------------------------
 ### June 20, 2023
 + OpenAI wants AI regulations, [except when they don't.](https://tech.slashdot.org/story/23/06/20/0632228/openai-lobbied-the-eu-to-water-down-ai-regulation)
 
