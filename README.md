@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 22, 2023
++ First two parts of *Energy Destinies* ([Part 1](https://www.nakedcapitalism.com/2023/06/energy-destinies-part-1-power-needs-and-sources-balancing-barrels.html), [Part 2](https://www.nakedcapitalism.com/2023/06/energy-destinies-part-2-renewable-energy-character-shortcomings.html)) which examines "the role of energy, demand and supply dynamics, the shift to renewables, the transition, its relationship to emissions and possible pathways"
+
+------------------------------------------
 ### June 21, 2023
 + A small LLM with just 1.3B parameters provides [surprisingly good performance](https://arxiv.org/abs/2306.11644) after being trained on only 7B tokens of "textbook-quality" data. And a stripped-down 350M-parameter version only loses 10% of its accuracy.
 
