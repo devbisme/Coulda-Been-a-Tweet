@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 24, 2023
++ [Using knowledge of how CPUs work to speed up your Python code](https://pythonspeed.com/articles/speeding-up-numba/): Not so much the particulars but the general approach is important here.
+
+------------------------------------------
 ### June 23, 2023
 + The current philosophy driving the USAF's drone efforts: ["affordable mass".](https://www.thedrive.com/the-war-zone/affordable-mass-concept-driving-air-forces-new-advanced-drone-initiative)
 
