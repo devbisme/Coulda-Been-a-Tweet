@@ -6,6 +6,7 @@ All the entries are chronological with the newest at the top.
 ------------------------------------------
 ### June 25, 2023
 + [Sweden went from a target of 100% renewable energy by 2045 to 100% fossil-free.](https://www.power-technology.com/news/sweden-adopts-new-fossil-free-target-making-way-for-nuclear/) The change allows them to increase their emphasis on nuclear power. It's still going to reduce CO2 emissions, but it's not "renewable" so some environmentalists reflexively say "Boo!"
++ [Limiting social media use to 30 minutes per day may improve psychological well-being](https://tmb.apaopen.org/pub/yvcb5y06/release/1). So stop reading this!
 
 ------------------------------------------
 ### June 24, 2023
