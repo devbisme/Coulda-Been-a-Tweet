@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 26, 2023
++ Two good signs for the future of the US: [a nuclear renaissance](https://www.economist.com/united-states/2023/06/25/america-aims-for-nuclear-power-renaissance) and [a broadband build-out](https://www.theverge.com/2023/6/26/23773434/broadband-funding-biden-white-house-ntia). Of course, if you Google "nuclear renaissance" you'll see that it has come and gone a few times. Maybe this time will be different. At the very least, maybe the money won't end up in Ukraine...
+
+------------------------------------------
 ### June 25, 2023
 + [Sweden went from a target of 100% renewable energy by 2045 to 100% fossil-free.](https://www.power-technology.com/news/sweden-adopts-new-fossil-free-target-making-way-for-nuclear/) The change allows them to increase their emphasis on nuclear power. It's still going to reduce CO2 emissions, but it's not "renewable" so some environmentalists reflexively say "Boo!"
 + [Limiting social media use to 30 minutes per day may improve psychological well-being](https://tmb.apaopen.org/pub/yvcb5y06/release/1). So stop reading this!
