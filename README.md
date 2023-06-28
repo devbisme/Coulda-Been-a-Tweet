@@ -4,6 +4,10 @@ Here are things I found interesting and could have put on Twitter, but they're h
 All the entries are chronological with the newest at the top.
 
 ------------------------------------------
+### June 28, 2023
++ Now AI is being used to [translate Akkadian cuniform tablets into English.](https://interestingengineering.com/science/ai-steps-in-to-save-5000-year-old-cuneiform-writing) This software could really help with the trove of half-a-million untranslated tablets.
+
+------------------------------------------
 ### June 27, 2023
 + I found a [good explainer about using LLMs to build agents.](https://lilianweng.github.io/posts/2023-06-23-agent/) This seems to be what LangChain is focused on, although it isn't mentioned.
 
